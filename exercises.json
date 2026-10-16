@@ -332,6 +332,165 @@
   "reference": "turc_reference_grammaire.md#3-les-cas"
  },
  {
+  "id": "e690e36fde20",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Her pazar annem____ ziyaret ediyorum. » — quel suffixe ?",
+  "answer": "i",
+  "alternatives": [],
+  "choices": [
+   "i",
+   "e",
+   "de",
+   "den"
+  ],
+  "hint": "",
+  "explanation": "*ziyaret etmek* (visiter) prend l'**accusatif** : *annemi ziyaret ediyorum*. Ne pas confondre avec *anneme gidiyorum* (datif).",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "ca0d66660262",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Her gün pek çok insan bu müze____ ziyaret ediyor. » — quel suffixe ?",
+  "answer": "yi",
+  "alternatives": [],
+  "choices": [
+   "yi",
+   "ye",
+   "de",
+   "den"
+  ],
+  "hint": "",
+  "explanation": "*ziyaret etmek* + accusatif ; *müze* finit par une voyelle → *y* de liaison : *müzeyi*.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "3ac013017323",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "fill_blank",
+  "display_prompt": "Okula metro____ gidiyorum. (en métro)",
+  "answer": "yla",
+  "alternatives": [],
+  "choices": [],
+  "hint": "Moyen de transport ; metro finit par une voyelle",
+  "explanation": "Moyen → *-(y)lA*. Voyelle finale → *y* ; dernière voyelle *o* → *-la* : *metroyla*. Pas d'apostrophe (nom commun).",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "9dda69ccd503",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "fill_blank",
+  "display_prompt": "Metro____ müzik dinliyorum. (dans le métro)",
+  "answer": "da",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Où ? → locatif : *metroda*. Comparer : *metroyla gidiyorum* (en métro — comment ?).",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "08f30b3f5585",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "fill_blank",
+  "display_prompt": "Özgül Hanım işe taksi____ gidiyor.",
+  "answer": "yle",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Moyen de transport → *-(y)lA* ; dernière voyelle *i* → *-le* ; *y* de liaison : *taksiyle*.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "c61d8368973c",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "fill_blank",
+  "display_prompt": "Anadolu Medeniyetleri Müzesi____ çalışıyor. (Elle travaille au musée…)",
+  "answer": "'nde",
+  "alternatives": [
+   "nde"
+  ],
+  "choices": [],
+  "hint": "Nom composé en -si + locatif",
+  "explanation": "Après le *-sI* du nom composé, le cas prend un **n** de liaison : *Müzesi'nde*.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "e84511829107",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "fill_blank",
+  "display_prompt": "Akşam Taksim Meydanı____ gidiyoruz.",
+  "answer": "'na",
+  "alternatives": [
+   "na"
+  ],
+  "choices": [],
+  "hint": "n de liaison + harmonie : dernière voyelle ı",
+  "explanation": "*Meydanı* (nom composé) + datif → *n* de liaison ; dernière voyelle *ı* → *-a* : *Meydanı'na*.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "5cdff1c07d77",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Rehber ziyaretçilerin bütün ____ cevap veriyor. »",
+  "answer": "sorularına",
+  "alternatives": [],
+  "choices": [
+   "sorularına",
+   "sorulara",
+   "sorularını",
+   "soruları"
+  ],
+  "hint": "",
+  "explanation": "*cevap vermek* + datif, et le génitif *ziyaretçilerin* impose le possessif : *sorular-ı-na* (n de liaison).",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "6ae78c77a7f6",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Yolun kenar____ bir simitçi var. » (au bord de la route)",
+  "answer": "ında",
+  "alternatives": [],
+  "choices": [
+   "ında",
+   "da",
+   "ına",
+   "ı"
+  ],
+  "hint": "",
+  "explanation": "Génitif *yolun* → possessif *kenarı* → locatif avec n : *kenarında*.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "9cd05e4e2005",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Ülkemiz____ çok turist var. » — faut-il un n de liaison ?",
+  "answer": "de",
+  "alternatives": [],
+  "choices": [
+   "de",
+   "nde",
+   "ye",
+   "i"
+  ],
+  "hint": "",
+  "explanation": "Pas de *n* : il n'apparaît qu'après le possessif de **3e personne** *-(s)I*. *ülkemiz* (notre pays) → *ülkemizde*.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
   "id": "5380f2a844d1",
   "theme": "Comparatif daha — plus [adj] que",
   "theme_slug": "comparatif_daha",
@@ -3271,5 +3430,211 @@
   "hint": "",
   "explanation": "basmak = appuyer, prend le datif (-A) sur l'objet appuyé. zil + e (datif) + bastım.",
   "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
+  "id": "7978631e12cf",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "mcq",
+  "display_prompt": "« Ahmet'i ____ musun? » (Tu connais Ahmet ?)",
+  "answer": "tanıyor",
+  "alternatives": [],
+  "choices": [
+   "tanıyor",
+   "biliyor",
+   "anlıyor",
+   "görüyor"
+  ],
+  "hint": "",
+  "explanation": "Connaître **une personne** → *tanımak*. *bilmek* = savoir une information.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "7a452345d510",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "mcq",
+  "display_prompt": "« Ahmet'in adresini ____ musun? » (Tu connais l'adresse d'Ahmet ?)",
+  "answer": "biliyor",
+  "alternatives": [],
+  "choices": [
+   "biliyor",
+   "tanıyor",
+   "anlıyor",
+   "söylüyor"
+  ],
+  "hint": "",
+  "explanation": "Une adresse est **une information** → *bilmek*, même si le français dit « connaître ».",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "adc1e7b458a9",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "fill_blank",
+  "display_prompt": "Saçını kestirmişsin, seni ____! (Tu t'es fait couper les cheveux, je ne t'ai pas reconnu !)",
+  "answer": "tanımadım",
+  "alternatives": [],
+  "choices": [],
+  "hint": "tanımak au passé, négatif, 1re personne",
+  "explanation": "*tanımak* veut aussi dire **reconnaître** : *tanı-ma-dım*.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "86fdec8734ff",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "mcq",
+  "display_prompt": "« Ben Türkçe ____. » (Je parle turc.)",
+  "answer": "konuşuyorum",
+  "alternatives": [],
+  "choices": [
+   "konuşuyorum",
+   "söylüyorum",
+   "diyorum",
+   "anlatıyorum"
+  ],
+  "hint": "",
+  "explanation": "Parler une langue → *konuşmak*. On ne « dit » pas une langue.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "a41127cca1c8",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "mcq",
+  "display_prompt": "« Bana doğruyu ____! » (Dis-moi la vérité !)",
+  "answer": "söyle",
+  "alternatives": [],
+  "choices": [
+   "söyle",
+   "konuş",
+   "de",
+   "bak"
+  ],
+  "hint": "",
+  "explanation": "Dire **un contenu, une information** → *söylemek* (objet à l'accusatif + personne au datif).",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "0886bce7c1fd",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "mcq",
+  "display_prompt": "« Bu kelime ne ____? » (Que veut dire ce mot ?)",
+  "answer": "demek",
+  "alternatives": [],
+  "choices": [
+   "demek",
+   "söylemek",
+   "konuşmak",
+   "anlatmak"
+  ],
+  "hint": "",
+  "explanation": "« vouloir dire » → *ne demek?* — expression figée très utile.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "5a66563f7161",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "fill_blank",
+  "display_prompt": "Kapıyı açtı ve « Merhaba! » ____. (Il a ouvert la porte et a dit « Bonjour ! ».)",
+  "answer": "dedi",
+  "alternatives": [
+   "söyledi"
+  ],
+  "choices": [],
+  "hint": "Paroles rapportées telles quelles",
+  "explanation": "Citation directe → *demek* : *« … » dedi*. *söyledi* se comprend mais *dedi* est la forme naturelle après une citation.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "33ee05b69f14",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "mcq",
+  "display_prompt": "« Bana tatilini ____! » (Raconte-moi tes vacances !)",
+  "answer": "anlat",
+  "alternatives": [],
+  "choices": [
+   "anlat",
+   "söyle",
+   "konuş",
+   "de"
+  ],
+  "hint": "",
+  "explanation": "Raconter un récit, expliquer en développant → *anlatmak*.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "9e34401770a6",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "mcq",
+  "display_prompt": "« Akşam televizyonda bir film ____. » (Ce soir on a regardé un film à la télé.)",
+  "answer": "izledik",
+  "alternatives": [],
+  "choices": [
+   "izledik",
+   "baktık",
+   "gördük",
+   "dinledik"
+  ],
+  "hint": "",
+  "explanation": "Regarder un spectacle dans la durée (film, match, série) → *izlemek* / *seyretmek* + accusatif.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "c8df8ff43734",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "mcq",
+  "display_prompt": "« Saat____ baktım, geç kalmışım! » (J'ai regardé l'heure, j'étais en retard !) — quel suffixe ?",
+  "answer": "e",
+  "alternatives": [],
+  "choices": [
+   "e",
+   "i",
+   "te",
+   "ten"
+  ],
+  "hint": "",
+  "explanation": "*bakmak* + **datif** : on dirige son regard **vers** l'horloge → *saate*.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "2dd8b6e81d93",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Je connais bien Istanbul.",
+  "answer": "İstanbul'u iyi tanıyorum.",
+  "alternatives": [
+   "Ben İstanbul'u iyi tanıyorum.",
+   "İstanbul'u iyi tanıyorum"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Un lieu qu'on fréquente, dont on est familier → *tanımak* + accusatif (apostrophe : nom propre).",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "01e5e62e1fa9",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "mcq",
+  "display_prompt": "« Şarkı ____ musun? » (Tu chantes ?)",
+  "answer": "söylüyor",
+  "alternatives": [],
+  "choices": [
+   "söylüyor",
+   "konuşuyor",
+   "diyor",
+   "anlatıyor"
+  ],
+  "hint": "",
+  "explanation": "Chanter = *şarkı söylemek* (« dire une chanson »).",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
  }
 ]
