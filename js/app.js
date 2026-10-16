@@ -10,6 +10,7 @@ let BY_ID = new Map();
 let items = loadItems();
 let dirty = false;            // réponses pas encore poussées sur le Gist
 let syncTimer = null;
+let answerGen = 0;            // incrémenté à chaque réponse enregistrée
 
 // Session courante, persistée pour pouvoir reprendre après fermeture d'onglet.
 let session = loadJSON("session");
@@ -41,9 +42,13 @@ function setSyncStatus(text, cls = "") {
 async function doSync() {
   if (!sync.enabled()) { setSyncStatus("local", "muted"); return; }
   setSyncStatus("⟳ synchro…", "muted");
+  const gen = answerGen;
   try {
-    items = await syncNow(items);
-    dirty = false;
+    const merged = await syncNow(items);
+    // Des réponses ont pu arriver pendant la requête : les garder (plus récentes).
+    items = mergeItems(merged, items);
+    saveItems(items);
+    if (gen === answerGen) dirty = false;
     setSyncStatus("☁ synchronisé", "ok");
   } catch (e) {
     setSyncStatus("⚠ synchro : " + e.message, "err");
@@ -52,6 +57,7 @@ async function doSync() {
 
 function scheduleSync() {
   dirty = true;
+  answerGen++;
   clearTimeout(syncTimer);
   syncTimer = setTimeout(doSync, 4000);
 }
