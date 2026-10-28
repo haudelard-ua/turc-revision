@@ -584,6 +584,86 @@
   "reference": "turc_reference_grammaire.md#915-comparatif-daha--plus-adj-que"
  },
  {
+  "id": "b276a760542e",
+  "theme": "Comparatif daha — plus [adj] que",
+  "theme_slug": "comparatif_daha",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Ahmet joue mieux au foot qu'Emin.",
+  "answer": "Ahmet Emin'den daha iyi futbol oynuyor.",
+  "alternatives": [
+   "Ahmet, Emin'den daha iyi futbol oynuyor.",
+   "Ahmet Emin'den daha iyi futbol oynuyor"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Avec un verbe : X-DAn + daha + adverbe (iyi) + verbe. Emin'den = ablatif avec apostrophe (nom propre).",
+  "reference": "turc_reference_grammaire.md#915-comparatif-daha--plus-adj-que"
+ },
+ {
+  "id": "f504f7553e57",
+  "theme": "Comparatif daha — plus [adj] que",
+  "theme_slug": "comparatif_daha",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Istanbul n'est pas plus peuplé que Tokyo.",
+  "answer": "İstanbul Tokyo'dan daha kalabalık değil.",
+  "alternatives": [
+   "İstanbul, Tokyo'dan daha kalabalık değil.",
+   "İstanbul Tokyo'dan daha kalabalık değil"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Phrase nominale → négation avec **değil** en fin de phrase. On ne nie pas daha.",
+  "reference": "turc_reference_grammaire.md#915-comparatif-daha--plus-adj-que"
+ },
+ {
+  "id": "88d333049834",
+  "theme": "Comparatif daha — plus [adj] que",
+  "theme_slug": "comparatif_daha",
+  "type": "fill_blank",
+  "display_prompt": "Ahmet, Messi'den daha iyi futbol ____. (Ahmet ne joue pas mieux au foot que Messi.)",
+  "answer": "oynamıyor",
+  "alternatives": [],
+  "choices": [],
+  "hint": "Phrase verbale → verbe au négatif",
+  "explanation": "Phrase verbale → on met le verbe au négatif : oyna-mı-yor. Pas de değil ici.",
+  "reference": "turc_reference_grammaire.md#915-comparatif-daha--plus-adj-que"
+ },
+ {
+  "id": "c96245ca9754",
+  "theme": "Comparatif daha — plus [adj] que",
+  "theme_slug": "comparatif_daha",
+  "type": "mcq",
+  "display_prompt": "Comment nier « Bükreş, Londra'dan daha pahalı » ?",
+  "answer": "Bükreş, Londra'dan daha pahalı değil.",
+  "alternatives": [],
+  "choices": [
+   "Bükreş, Londra'dan daha pahalı değil.",
+   "Bükreş, Londra'dan daha değil pahalı.",
+   "Bükreş, Londra'dan değil daha pahalı.",
+   "Bükreş, Londra'dan daha pahalısız."
+  ],
+  "hint": "",
+  "explanation": "değil se place après l'adjectif, en fin de phrase nominale.",
+  "reference": "turc_reference_grammaire.md#915-comparatif-daha--plus-adj-que"
+ },
+ {
+  "id": "f6db796763ac",
+  "theme": "Comparatif daha — plus [adj] que",
+  "theme_slug": "comparatif_daha",
+  "type": "translation",
+  "display_prompt": "[TR → FR] Bu kamyon diğer kamyondan daha hafif.",
+  "answer": "Ce camion est plus léger que l'autre camion.",
+  "alternatives": [
+   "Ce camion est plus léger que l'autre.",
+   "Ce camion est plus léger que l'autre camion",
+   "Ce camion est plus léger que l'autre"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "diğer = l'autre ; kamyondan = ablatif (que le camion) ; daha hafif = plus léger.",
+  "reference": "turc_reference_grammaire.md#915-comparatif-daha--plus-adj-que"
+ },
+ {
   "id": "564362630be6",
   "theme": "Connecteurs et expressions temporelles",
   "theme_slug": "connecteurs_temps",
@@ -1654,6 +1734,91 @@
   "hint": "",
   "explanation": "Hiç + V passé sert à évoquer une expérience RARE ou marquante. Les actions routinières (boire de l'eau, dormir) rendent la question absurde.",
   "reference": "turc_reference_grammaire.md#55-hiç--verbe--exprimer-lexpérience-vécue"
+ },
+ {
+  "id": "aec32dadbd2e",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "« Bahçede ____ ağaç var. » (Il n'y a qu'un seul arbre dans le jardin.)",
+  "answer": "tek",
+  "alternatives": [],
+  "choices": [
+   "tek",
+   "yalnız",
+   "tek başına",
+   "sadece bir tane"
+  ],
+  "hint": "",
+  "explanation": "Constat de quantité (un seul, unique) → *tek*. *yalnız* = seul, solitaire, surtout pour une personne.",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "3d12e00a5050",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "« O, büyük bir evde ____ yaşıyor. » (Il vit seul dans une grande maison.)",
+  "answer": "yalnız",
+  "alternatives": [],
+  "choices": [
+   "yalnız",
+   "tek",
+   "sadece",
+   "baş başa"
+  ],
+  "hint": "",
+  "explanation": "Une personne qui vit seule → *yalnız* (ou *tek başına*). *tek* exprime l'unicité (*tek çocuk* = enfant unique).",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "8202b086cc78",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "« Hastayım, bugün işe gidemiyorum. » — c'est un… ?",
+  "answer": "mazeret",
+  "alternatives": [],
+  "choices": [
+   "mazeret",
+   "bahane",
+   "hakaret",
+   "çözüm"
+  ],
+  "hint": "",
+  "explanation": "Raison valable (*geçerli sebep*) → *mazeret*. *bahane* = prétexte, raison vide.",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "b0de0cbfae85",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "Le serveur invente une excuse absurde : « Saçma bir ____ buldu. »",
+  "answer": "bahane",
+  "alternatives": [],
+  "choices": [
+   "bahane",
+   "mazeret",
+   "çözüm",
+   "lakap"
+  ],
+  "hint": "",
+  "explanation": "Excuse inventée, raison vide → *bahane* (bahane bulmak = trouver un prétexte).",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "37c6aa52ac40",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "fill_blank",
+  "display_prompt": "Emin ____! Bu çok mantıksız. (Emin dit n'importe quoi ! C'est très illogique.)",
+  "answer": "saçmalıyor",
+  "alternatives": [],
+  "choices": [],
+  "hint": "saçma → verbe en -la-, présent continu, 3e pers.",
+  "explanation": "saçma + -la- → saçmalamak ; présent : saçmal-ıyor (le a final tombe devant -iyor).",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
  },
  {
   "id": "c0cc15bf17b2",
@@ -2864,6 +3029,119 @@
   "hint": "",
   "explanation": "Le présent continu couvre aussi le futur proche planifié.",
   "reference": "turc_reference_grammaire.md#61-présent-continu--yor"
+ },
+ {
+  "id": "53c745836ef2",
+  "theme": "Réclamer — restaurant, avion (şikâyet, iade, ikram)",
+  "theme_slug": "reclamation",
+  "type": "fill_blank",
+  "display_prompt": "Kabin görevlisi____ sinirlendim. (Je me suis énervé contre le steward.)",
+  "answer": "ne",
+  "alternatives": [],
+  "choices": [],
+  "hint": "sinirlenmek prend quel cas ? görevlisi finit par le -si du nom composé",
+  "explanation": "sinirlenmek + **datif** ; après le -si du nom composé → n de liaison : görevlisi-ne.",
+  "reference": "turc_reference_sessions.md#21-vocabulaire-thématique--réclamer-au-restaurant-dans-lavion-cours-du-2710"
+ },
+ {
+  "id": "dd94baa4142f",
+  "theme": "Réclamer — restaurant, avion (şikâyet, iade, ikram)",
+  "theme_slug": "reclamation",
+  "type": "mcq",
+  "display_prompt": "« Garson hatası____ kabul etmedi. » (Le serveur n'a pas reconnu son erreur.)",
+  "answer": "nı",
+  "alternatives": [],
+  "choices": [
+   "nı",
+   "na",
+   "nda",
+   "ndan"
+  ],
+  "hint": "",
+  "explanation": "kabul etmek + **accusatif** ; hatası (son erreur, possessif 3e pers.) → n de liaison : hatasını.",
+  "reference": "turc_reference_sessions.md#21-vocabulaire-thématique--réclamer-au-restaurant-dans-lavion-cours-du-2710"
+ },
+ {
+  "id": "b196cd1cb082",
+  "theme": "Réclamer — restaurant, avion (şikâyet, iade, ikram)",
+  "theme_slug": "reclamation",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Nous vous offrons le dessert.",
+  "answer": "Size tatlı ikram ediyoruz.",
+  "alternatives": [
+   "Size tatlı ikram ediyoruz",
+   "Size tatlıyı ikram ediyoruz."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "ikram etmek = offrir (à manger / boire) ; la personne au **datif** : size.",
+  "reference": "turc_reference_sessions.md#21-vocabulaire-thématique--réclamer-au-restaurant-dans-lavion-cours-du-2710"
+ },
+ {
+  "id": "0e2cc3e93a3e",
+  "theme": "Réclamer — restaurant, avion (şikâyet, iade, ikram)",
+  "theme_slug": "reclamation",
+  "type": "translation",
+  "display_prompt": "[TR → FR] Yemeğimin içinden saç çıktı.",
+  "answer": "Il y avait un cheveu dans mon plat.",
+  "alternatives": [
+   "Il y a un cheveu dans mon plat.",
+   "Un cheveu est sorti de mon plat.",
+   "J'ai trouvé un cheveu dans mon plat."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Litt. « un cheveu est sorti de l'intérieur de mon plat » : yemeğim-in iç-i-nden (génitif + possessif + ablatif).",
+  "reference": "turc_reference_sessions.md#21-vocabulaire-thématique--réclamer-au-restaurant-dans-lavion-cours-du-2710"
+ },
+ {
+  "id": "5f555109e016",
+  "theme": "Réclamer — restaurant, avion (şikâyet, iade, ikram)",
+  "theme_slug": "reclamation",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Mon siège est cassé et la télé ne marche pas.",
+  "answer": "Koltuğum kırık ve televizyon çalışmıyor.",
+  "alternatives": [
+   "Koltuğum kırık ve televizyon çalışmıyor"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "koltuk → koltuğum (adoucissement k → ğ) ; çalışmak = fonctionner (pour une machine).",
+  "reference": "turc_reference_sessions.md#21-vocabulaire-thématique--réclamer-au-restaurant-dans-lavion-cours-du-2710"
+ },
+ {
+  "id": "3c85e31ac00e",
+  "theme": "Réclamer — restaurant, avion (şikâyet, iade, ikram)",
+  "theme_slug": "reclamation",
+  "type": "mcq",
+  "display_prompt": "Je veux me faire rembourser : « Paramı ____ edin! »",
+  "answer": "iade",
+  "alternatives": [],
+  "choices": [
+   "iade",
+   "ikram",
+   "kabul",
+   "şikâyet"
+  ],
+  "hint": "",
+  "explanation": "iade etmek = rendre, rembourser. ikram = offrir ; kabul = accepter ; şikâyet = se plaindre.",
+  "reference": "turc_reference_sessions.md#21-vocabulaire-thématique--réclamer-au-restaurant-dans-lavion-cours-du-2710"
+ },
+ {
+  "id": "7fb490f4ad47",
+  "theme": "Réclamer — restaurant, avion (şikâyet, iade, ikram)",
+  "theme_slug": "reclamation",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Je veux un autre siège.",
+  "answer": "Başka bir koltuk istiyorum.",
+  "alternatives": [
+   "Başka bir koltuk istiyorum",
+   "Ben başka bir koltuk istiyorum."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "başka bir = un autre (indéfini) ; objet indéfini → pas d'accusatif.",
+  "reference": "turc_reference_sessions.md#21-vocabulaire-thématique--réclamer-au-restaurant-dans-lavion-cours-du-2710"
  },
  {
   "id": "a27b30214e05",
