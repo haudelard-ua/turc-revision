@@ -2295,6 +2295,45 @@
   "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
  },
  {
+  "id": "30a0ffb9fe9d",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "fill_blank",
+  "display_prompt": "Yalancılardan nefret ____. (Je déteste les menteurs.)",
+  "answer": "ederim",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "et- : 1 syllabe hors exceptions → -er, et t → d devant voyelle : ed + er + im → ederim (comme teşekkür ederim).",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "5ce968712575",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "fill_blank",
+  "display_prompt": "Biz her yaz köye ____. (gitmek — nous allons au village chaque été.)",
+  "answer": "gideriz",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "git- → -er (pas -ir) et t → d : gid + er + iz → gideriz.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "7774c3d2ec74",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "fill_blank",
+  "display_prompt": "Biz asla kavga et____. (Nous ne nous disputons jamais.)",
+  "answer": "meyiz",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Négatif biz : ni r ni z → -meyiz / -mayız : etmeyiz. Le z n'apparaît qu'avec sen / o / siz / onlar.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
   "id": "489b3f009d6b",
   "theme": "Harmonie vocalique & phonologie",
   "theme_slug": "harmonie_vocalique",
