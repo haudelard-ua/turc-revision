@@ -2507,16 +2507,16 @@
   "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
  },
  {
-  "id": "1e653ea496ea",
+  "id": "dfe27e2e55e4",
   "theme": "Geniş zaman -r / -Ar / -Ir",
   "theme_slug": "genis_zaman",
   "type": "fill_blank",
-  "display_prompt": "Terzi elbise dik____ ve kumaş kes____ . (2 trous, même suffixe — tape-le une fois)",
+  "display_prompt": "Terzi elbise dik____ . (Le tailleur coud des vêtements.)",
   "answer": "er",
   "alternatives": [],
   "choices": [],
   "hint": "",
-  "explanation": "dik-, kes- : 1 syllabe hors exceptions → -Ar, voyelle avant (i, e) → -er : diker, keser. -ar seulement après a/ı/o/u.",
+  "explanation": "dik- : 1 syllabe hors exceptions → -Ar, voyelle avant (i) → -er : diker. Idem kes- → keser. -ar seulement après a/ı/o/u.",
   "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
  },
  {
