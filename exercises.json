@@ -1,5 +1,103 @@
 [
  {
+  "id": "adb0a4fa3b53",
+  "theme": "Avec / sans : -lI / -sIz",
+  "theme_slug": "avec_sans_li_siz",
+  "type": "fill_blank",
+  "display_prompt": "Şeker____ kahve lütfen. (Un café avec sucre, s'il vous plaît.)",
+  "answer": "li",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "şeker (e) → -li (harmonie à 4 formes) : şekerli = sucré, avec sucre.",
+  "reference": "turc_reference_grammaire.md#105-avec--sans--lı--sız"
+ },
+ {
+  "id": "cdedc8b1af00",
+  "theme": "Avec / sans : -lI / -sIz",
+  "theme_slug": "avec_sans_li_siz",
+  "type": "fill_blank",
+  "display_prompt": "Süt____ çay istiyorum. (Je veux un thé sans lait.)",
+  "answer": "süz",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "süt (ü) → -süz : sütsüz = sans lait.",
+  "reference": "turc_reference_grammaire.md#105-avec--sans--lı--sız"
+ },
+ {
+  "id": "4d0f44cfe550",
+  "theme": "Avec / sans : -lI / -sIz",
+  "theme_slug": "avec_sans_li_siz",
+  "type": "fill_blank",
+  "display_prompt": "Limon____ çay. (Thé au citron.)",
+  "answer": "lu",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "limon (o) → -lu : limonlu.",
+  "reference": "turc_reference_grammaire.md#105-avec--sans--lı--sız"
+ },
+ {
+  "id": "4c25e32e3bbb",
+  "theme": "Avec / sans : -lI / -sIz",
+  "theme_slug": "avec_sans_li_siz",
+  "type": "fill_blank",
+  "display_prompt": "Para____ giriş. (Entrée gratuite — litt. sans argent.)",
+  "answer": "sız",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "para (a) → -sız : parasız = gratuit / sans le sou.",
+  "reference": "turc_reference_grammaire.md#105-avec--sans--lı--sız"
+ },
+ {
+  "id": "45379f327a95",
+  "theme": "Avec / sans : -lI / -sIz",
+  "theme_slug": "avec_sans_li_siz",
+  "type": "translation",
+  "display_prompt": "[FR → TR] un café sans sucre",
+  "answer": "şekersiz kahve",
+  "alternatives": [
+   "şekersiz bir kahve"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "şeker + siz. Le mot en -lI/-sIz se place avant le nom comme un adjectif.",
+  "reference": "turc_reference_grammaire.md#105-avec--sans--lı--sız"
+ },
+ {
+  "id": "01a2c455d197",
+  "theme": "Avec / sans : -lI / -sIz",
+  "theme_slug": "avec_sans_li_siz",
+  "type": "translation",
+  "display_prompt": "[FR → TR] l'homme à lunettes",
+  "answer": "gözlüklü adam",
+  "alternatives": [
+   "Gözlüklü adam"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "gözlük (ü) + lü → gözlüklü : qui porte des lunettes.",
+  "reference": "turc_reference_grammaire.md#105-avec--sans--lı--sız"
+ },
+ {
+  "id": "f3f6af9affa1",
+  "theme": "Avec / sans : -lI / -sIz",
+  "theme_slug": "avec_sans_li_siz",
+  "type": "translation",
+  "display_prompt": "[TR → FR] Bu oda çok güneşli.",
+  "answer": "Cette chambre est très ensoleillée.",
+  "alternatives": [
+   "Cette pièce est très ensoleillée.",
+   "Cette chambre est très lumineuse."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "güneş + li = ensoleillé (avec du soleil).",
+  "reference": "turc_reference_grammaire.md#105-avec--sans--lı--sız"
+ },
+ {
   "id": "99b0273d1334",
   "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
   "theme_slug": "cas",
@@ -491,6 +589,183 @@
   "reference": "turc_reference_grammaire.md#3-les-cas"
  },
  {
+  "id": "9694e778779e",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Bu filmi izledim. » — pourquoi l'accusatif sur film ?",
+  "answer": "Précédé de bu / şu / o / hangi",
+  "alternatives": [],
+  "choices": [
+   "Précédé de bu / şu / o / hangi",
+   "C'est un pronom",
+   "Il porte un possessif",
+   "C'est un nom propre",
+   "Il est au pluriel",
+   "Séparé du verbe par d'autres mots"
+  ],
+  "hint": "",
+  "explanation": "bu film = ce film-là, donc défini → filmi.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "8c0bff336ab4",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Seni seviyorum. » — pourquoi l'accusatif ?",
+  "answer": "C'est un pronom",
+  "alternatives": [],
+  "choices": [
+   "Précédé de bu / şu / o / hangi",
+   "C'est un pronom",
+   "Il porte un possessif",
+   "C'est un nom propre",
+   "Il est au pluriel",
+   "Séparé du verbe par d'autres mots"
+  ],
+  "hint": "",
+  "explanation": "Un pronom objet est toujours défini : sen → seni, o → onu, biz → bizi.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "21e228bef33f",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Arabamı sattım. » — pourquoi l'accusatif ?",
+  "answer": "Il porte un possessif",
+  "alternatives": [],
+  "choices": [
+   "Précédé de bu / şu / o / hangi",
+   "C'est un pronom",
+   "Il porte un possessif",
+   "C'est un nom propre",
+   "Il est au pluriel",
+   "Séparé du verbe par d'autres mots"
+  ],
+  "hint": "",
+  "explanation": "araba + m (ma) + ı → arabamı. Ma voiture est forcément définie.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "13e3e463b786",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Dün Ayşe'yi gördüm. » — pourquoi l'accusatif ?",
+  "answer": "C'est un nom propre",
+  "alternatives": [],
+  "choices": [
+   "Précédé de bu / şu / o / hangi",
+   "C'est un pronom",
+   "Il porte un possessif",
+   "C'est un nom propre",
+   "Il est au pluriel",
+   "Séparé du verbe par d'autres mots"
+  ],
+  "hint": "",
+  "explanation": "Nom propre = défini : Ayşe + (y) + i, avec apostrophe.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "144cd12f8186",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Kitapları okudum. » — pourquoi l'accusatif ?",
+  "answer": "Il est au pluriel",
+  "alternatives": [],
+  "choices": [
+   "Précédé de bu / şu / o / hangi",
+   "C'est un pronom",
+   "Il porte un possessif",
+   "C'est un nom propre",
+   "Il est au pluriel",
+   "Séparé du verbe par d'autres mots"
+  ],
+  "hint": "",
+  "explanation": "Objet au pluriel → accusatif : kitaplar + ı.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "972766c78fe1",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Elmayı mutfakta yedim. » — pourquoi l'accusatif ?",
+  "answer": "Séparé du verbe par d'autres mots",
+  "alternatives": [],
+  "choices": [
+   "Précédé de bu / şu / o / hangi",
+   "C'est un pronom",
+   "Il porte un possessif",
+   "C'est un nom propre",
+   "Il est au pluriel",
+   "Séparé du verbe par d'autres mots"
+  ],
+  "hint": "",
+  "explanation": "mutfakta s'intercale entre l'objet et le verbe → elmayı. Comparer : Mutfakta elma yedim (objet indéfini collé au verbe).",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "8ec5e1194627",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "« Je bois du thé » (indéfini) vs « Je bois le thé » (défini) ?",
+  "answer": "Çay içiyorum / Çayı içiyorum",
+  "alternatives": [],
+  "choices": [
+   "Çay içiyorum / Çayı içiyorum",
+   "Çayı içiyorum / Çay içiyorum",
+   "Çaya içiyorum / Çayı içiyorum",
+   "Çay içiyorum / Çayda içiyorum"
+  ],
+  "hint": "",
+  "explanation": "Objet indéfini = pas de suffixe. Objet défini = accusatif -(y)I.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "3a118fcf6026",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "fill_blank",
+  "display_prompt": "Nere____ gidiyorsun? (Où vas-tu ?)",
+  "answer": "ye",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Direction → datif : nereye.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "7f6d5d55b83b",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "fill_blank",
+  "display_prompt": "Nere____ geliyorsun? (D'où viens-tu ?)",
+  "answer": "den",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Origine → ablatif : nereden.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "53662fe1bd28",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "fill_blank",
+  "display_prompt": "Nere____ oturuyorsun? (Où habites-tu ?)",
+  "answer": "de",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Position → locatif : nerede.",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
   "id": "5380f2a844d1",
   "theme": "Comparatif daha — plus [adj] que",
   "theme_slug": "comparatif_daha",
@@ -908,6 +1183,35 @@
   "reference": "turc_reference_grammaire.md#10-structure-de-la-phrase--connecteurs"
  },
  {
+  "id": "193b7d9a461e",
+  "theme": "Connecteurs et expressions temporelles",
+  "theme_slug": "connecteurs_temps",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Quand j'étais enfant, je jouais au football.",
+  "answer": "Çocukken futbol oynuyordum.",
+  "alternatives": [
+   "Çocukken futbol oynuyordum",
+   "Ben çocukken futbol oynuyordum."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "çocuk + ken = çocukken (quand j'étais enfant). Habitude passée → passé continu.",
+  "reference": "turc_reference_grammaire.md#10-structure-de-la-phrase--connecteurs"
+ },
+ {
+  "id": "c50bafa6def4",
+  "theme": "Connecteurs et expressions temporelles",
+  "theme_slug": "connecteurs_temps",
+  "type": "fill_blank",
+  "display_prompt": "Öğrenci____ Ankara'da yaşıyordum. (Quand j'étais étudiant…)",
+  "answer": "yken",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Après voyelle → y de liaison : öğrenci + y + ken = öğrenciyken. -ken ne suit pas l'harmonie.",
+  "reference": "turc_reference_grammaire.md#10-structure-de-la-phrase--connecteurs"
+ },
+ {
   "id": "a9b620998f37",
   "theme": "Expressions et structures courantes (lazım / ihtiyaç / kaçırmak / excuses / idiomes gibi)",
   "theme_slug": "expressions_courantes",
@@ -1115,6 +1419,24 @@
   "choices": [],
   "hint": "",
   "explanation": "kalmamış = -mIş fonction 2 (découverte a posteriori) sur kalmak. Différent de « yok » qui serait un simple constat neutre.",
+  "reference": "turc_reference_grammaire.md#56-lazım---a-ihtiyacı-var--exprimer-le-besoin-et-la-nécessité"
+ },
+ {
+  "id": "98a86161d90e",
+  "theme": "Expressions et structures courantes (lazım / ihtiyaç / kaçırmak / excuses / idiomes gibi)",
+  "theme_slug": "expressions_courantes",
+  "type": "mcq",
+  "display_prompt": "« Uçağı kaçırdım » vs « Uçak kaçırdılar » ?",
+  "answer": "J'ai raté l'avion / Ils ont détourné un avion",
+  "alternatives": [],
+  "choices": [
+   "J'ai raté l'avion / Ils ont détourné un avion",
+   "J'ai détourné l'avion / Ils ont raté un avion",
+   "Les deux = rater l'avion",
+   "Les deux = détourner un avion"
+  ],
+  "hint": "",
+  "explanation": "uçağı kaçırmak (accusatif, avion défini) = rater l'avion. uçak kaçırmak (sans suffixe) = détourner un avion.",
   "reference": "turc_reference_grammaire.md#56-lazım---a-ihtiyacı-var--exprimer-le-besoin-et-la-nécessité"
  },
  {
@@ -2159,6 +2481,95 @@
   "reference": "turc_reference_grammaire.md#1-harmonie-vocalique--phonologie"
  },
  {
+  "id": "852cf77cbb00",
+  "theme": "Harmonie vocalique & phonologie",
+  "theme_slug": "harmonie_vocalique",
+  "type": "fill_blank",
+  "display_prompt": "ev + pluriel → ev____",
+  "answer": "ler",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Dernière voyelle e (avant) → -ler : evler (les maisons).",
+  "reference": "turc_reference_grammaire.md#1-harmonie-vocalique--phonologie"
+ },
+ {
+  "id": "2786e3335141",
+  "theme": "Harmonie vocalique & phonologie",
+  "theme_slug": "harmonie_vocalique",
+  "type": "fill_blank",
+  "display_prompt": "araba + pluriel → araba____",
+  "answer": "lar",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Dernière voyelle a (arrière) → -lar : arabalar.",
+  "reference": "turc_reference_grammaire.md#1-harmonie-vocalique--phonologie"
+ },
+ {
+  "id": "9d2059c3e08c",
+  "theme": "Harmonie vocalique & phonologie",
+  "theme_slug": "harmonie_vocalique",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Les maisons sont très belles.",
+  "answer": "Evler çok güzel.",
+  "alternatives": [
+   "Evler çok güzel"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "ev + ler = evler. À la 3e personne du pluriel, le prédicat n'a pas besoin de -lar quand le sujet est un objet.",
+  "reference": "turc_reference_grammaire.md#1-harmonie-vocalique--phonologie"
+ },
+ {
+  "id": "dd1166bb1b7a",
+  "theme": "Harmonie vocalique & phonologie",
+  "theme_slug": "harmonie_vocalique",
+  "type": "translation",
+  "display_prompt": "[FR → TR] deux voitures",
+  "answer": "iki araba",
+  "alternatives": [
+   "İki araba"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Jamais de pluriel après un nombre : iki araba (et non iki arabalar).",
+  "reference": "turc_reference_grammaire.md#1-harmonie-vocalique--phonologie"
+ },
+ {
+  "id": "26f73b60904b",
+  "theme": "Harmonie vocalique & phonologie",
+  "theme_slug": "harmonie_vocalique",
+  "type": "translation",
+  "display_prompt": "[FR → TR] J'ai lu cinq livres.",
+  "answer": "Beş kitap okudum.",
+  "alternatives": [
+   "Beş kitap okudum"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Après un nombre : pas de -lar. beş kitap (et non beş kitaplar).",
+  "reference": "turc_reference_grammaire.md#1-harmonie-vocalique--phonologie"
+ },
+ {
+  "id": "4ba4567e60ff",
+  "theme": "Harmonie vocalique & phonologie",
+  "theme_slug": "harmonie_vocalique",
+  "type": "mcq",
+  "display_prompt": "Laquelle est correcte ?",
+  "answer": "üç çocuk",
+  "alternatives": [],
+  "choices": [
+   "üç çocuklar",
+   "üç çocuk",
+   "üçler çocuk",
+   "üç çocukları"
+  ],
+  "hint": "",
+  "explanation": "Le nombre suffit à marquer la pluralité : üç çocuk (trois enfants).",
+  "reference": "turc_reference_grammaire.md#1-harmonie-vocalique--phonologie"
+ },
+ {
   "id": "47d2f6660b8c",
   "theme": "Hiç + V passé — expérience vécue (present perfect turc)",
   "theme_slug": "hic_experience",
@@ -2238,6 +2649,378 @@
   "hint": "",
   "explanation": "Hiç + V passé sert à évoquer une expérience RARE ou marquante. Les actions routinières (boire de l'eau, dormir) rendent la question absurde.",
   "reference": "turc_reference_grammaire.md#55-hiç--verbe--exprimer-lexpérience-vécue"
+ },
+ {
+  "id": "b3a0cb726805",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **gelmek** au impératif (sen)",
+  "answer": "Gel",
+  "alternatives": [
+   "Gel!"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Impératif sen = racine seule : gel. Point d'exclamation systématique à l'écrit : Gel!",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "760e190aa80e",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **gelmek** au impératif (siz)",
+  "answer": "Gelin",
+  "alternatives": [
+   "Gelin!"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Impératif siz = racine + -in/-ın/-un/-ün : gel + in → gelin (poli / pluriel).",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "f54c4cf66e83",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **gelmek** au impératif (sen) — forme négatif",
+  "answer": "Gelme",
+  "alternatives": [
+   "Gelme!"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Négatif = racine + me/ma : gel + me → gelme (ne viens pas).",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "d7ff471f6683",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **gelmek** au impératif (siz) — forme négatif",
+  "answer": "Gelmeyin",
+  "alternatives": [
+   "Gelmeyin!"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "gel + me + (y) + in → gelmeyin. Le y de liaison sépare les deux voyelles.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "daa6167e6f4f",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **okumak** au impératif (o)",
+  "answer": "okusun",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Impératif o = racine + -sin/-sın/-sun/-sün : oku + sun → okusun (qu'il lise). Harmonie u → -sun.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "1336b1f781f2",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **yemek** au impératif (sen)",
+  "answer": "Ye",
+  "alternatives": [
+   "Ye!"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "yemek → ye (racine courte). Idem demek → de.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "24c9731b27b0",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Ouvrez la fenêtre, s'il vous plaît.",
+  "answer": "Lütfen pencereyi açın.",
+  "alternatives": [
+   "Lütfen pencereyi açın",
+   "Pencereyi açın lütfen."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Demande polie : lütfen + impératif siz (aç + ın). Fenêtre définie → accusatif pencereyi.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "d516a11418c6",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "mcq",
+  "display_prompt": "Sur un panneau : « Sigara içmeyiniz. » — quelle fonction de l'impératif ?",
+  "answer": "Règle écrite (panneau, notice)",
+  "alternatives": [],
+  "choices": [
+   "Règle écrite (panneau, notice)",
+   "Ordre direct",
+   "Demande polie",
+   "Interdiction / avertissement",
+   "Instruction (recette, mode d'emploi)",
+   "Conseil"
+  ],
+  "hint": "",
+  "explanation": "Forme écrite impersonnelle en -(y)InIz : içmeyiniz = ne pas fumer. C'est le registre des panneaux.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "e4746e33943d",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "mcq",
+  "display_prompt": "« Gel buraya! » — quelle fonction de l'impératif ?",
+  "answer": "Ordre direct",
+  "alternatives": [],
+  "choices": [
+   "Règle écrite (panneau, notice)",
+   "Ordre direct",
+   "Demande polie",
+   "Interdiction / avertissement",
+   "Instruction (recette, mode d'emploi)",
+   "Conseil"
+  ],
+  "hint": "",
+  "explanation": "Impératif sen sans adoucissement : ordre direct, assez sec.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "a41c9f5e9e14",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "mcq",
+  "display_prompt": "« Lütfen bana yardım edin. » — quelle fonction de l'impératif ?",
+  "answer": "Demande polie",
+  "alternatives": [],
+  "choices": [
+   "Règle écrite (panneau, notice)",
+   "Ordre direct",
+   "Demande polie",
+   "Interdiction / avertissement",
+   "Instruction (recette, mode d'emploi)",
+   "Conseil"
+  ],
+  "hint": "",
+  "explanation": "lütfen + impératif siz = demande polie.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "76a508fd665b",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "mcq",
+  "display_prompt": "« Dokunmayın! Çok sıcak. » — quelle fonction de l'impératif ?",
+  "answer": "Interdiction / avertissement",
+  "alternatives": [],
+  "choices": [
+   "Règle écrite (panneau, notice)",
+   "Ordre direct",
+   "Demande polie",
+   "Interdiction / avertissement",
+   "Instruction (recette, mode d'emploi)",
+   "Conseil"
+  ],
+  "hint": "",
+  "explanation": "Impératif négatif adressé à quelqu'un pour le prévenir d'un danger : avertissement.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "5ae8c899205f",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "mcq",
+  "display_prompt": "« Soğanı doğrayın, sonra iyice karıştırın. » — quelle fonction de l'impératif ?",
+  "answer": "Instruction (recette, mode d'emploi)",
+  "alternatives": [],
+  "choices": [
+   "Règle écrite (panneau, notice)",
+   "Ordre direct",
+   "Demande polie",
+   "Interdiction / avertissement",
+   "Instruction (recette, mode d'emploi)",
+   "Conseil"
+  ],
+  "hint": "",
+  "explanation": "Étapes successives d'une recette : instructions.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "82f25cdd72b0",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "mcq",
+  "display_prompt": "« Çok yorgunsun, biraz dinlen. » — quelle fonction de l'impératif ?",
+  "answer": "Conseil",
+  "alternatives": [],
+  "choices": [
+   "Règle écrite (panneau, notice)",
+   "Ordre direct",
+   "Demande polie",
+   "Interdiction / avertissement",
+   "Instruction (recette, mode d'emploi)",
+   "Conseil"
+  ],
+  "hint": "",
+  "explanation": "On recommande quelque chose pour le bien de l'autre : conseil.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "25db61fd1009",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **gitmek** au optatif (biz)",
+  "answer": "gidelim",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Optatif biz = racine + (y)elim/(y)alım : git → gid (t → d devant voyelle) + elim → gidelim (allons-y).",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "5ca67e598170",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **gelmek** au optatif (ben)",
+  "answer": "geleyim",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Optatif ben = racine + (y)eyim/(y)ayım : gel + eyim → geleyim (que je vienne / je viens).",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "b68026ca249e",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **yapmak** au optatif (biz)",
+  "answer": "yapalım",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "yap + alım (a → forme arrière) → yapalım (faisons).",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "6d16e4325cbb",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **beklemek** au optatif (ben)",
+  "answer": "bekleyeyim",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Racine finissant par voyelle → y de liaison : bekle + y + eyim → bekleyeyim.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "c88dbfd1acb1",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **gitmek** au optatif (biz) — forme négatif",
+  "answer": "gitmeyelim",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Négatif : git + me + (y) + elim → gitmeyelim (n'y allons pas). Pas d'adoucissement : t est suivi de m.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "547a4cb81d64",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "translation",
+  "display_prompt": "[FR → TR] On va au cinéma ? (proposition)",
+  "answer": "Sinemaya gidelim mi?",
+  "alternatives": [
+   "Sinemaya gidelim mi"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Proposition = optatif biz + mi : gidelim mi? Direction → datif sinemaya.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "c26c4558e9e4",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Je peux venir ? / Tu veux que je vienne ?",
+  "answer": "Geleyim mi?",
+  "alternatives": [
+   "Geleyim mi"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Permission = optatif ben + mi : geleyim mi?",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "4d0c734d0a86",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Allons-y !",
+  "answer": "Gidelim!",
+  "alternatives": [
+   "Gidelim",
+   "Hadi gidelim!",
+   "Hadi gidelim"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Optatif biz de gitmek. Souvent précédé de hadi.",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "bb539226179b",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "mcq",
+  "display_prompt": "« Pencereyi açayım mı? » — que fait le locuteur ?",
+  "answer": "Il demande la permission / propose son aide",
+  "alternatives": [],
+  "choices": [
+   "Il propose une activité commune",
+   "Il demande la permission / propose son aide",
+   "Il donne un ordre",
+   "Il raconte une action passée"
+  ],
+  "hint": "",
+  "explanation": "Optatif ben + mi = permission (izin) : « J'ouvre la fenêtre ? ». Optatif biz + mi = proposition commune (teklif).",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
+  "id": "df71c19b4070",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "mcq",
+  "display_prompt": "« Gel » vs « Geleyim » vs « Gelelim » — lequel signifie « venons » ?",
+  "answer": "Gelelim",
+  "alternatives": [],
+  "choices": [
+   "Gel",
+   "Geleyim",
+   "Gelelim",
+   "Gelin"
+  ],
+  "hint": "",
+  "explanation": "Gel = viens (impératif sen) / Gelin = venez (impératif siz) / Geleyim = que je vienne (optatif ben) / Gelelim = venons (optatif biz).",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
  },
  {
   "id": "aec32dadbd2e",
@@ -2323,6 +3106,338 @@
   "hint": "saçma → verbe en -la-, présent continu, 3e pers.",
   "explanation": "saçma + -la- → saçmalamak ; présent : saçmal-ıyor (le a final tombe devant -iyor).",
   "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "51b5155cee76",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "« Un bel homme » se dit le plus naturellement ?",
+  "answer": "yakışıklı adam",
+  "alternatives": [],
+  "choices": [
+   "güzel adam",
+   "yakışıklı adam",
+   "güzel erkek",
+   "tatlı adam"
+  ],
+  "hint": "",
+  "explanation": "yakışıklı = beau, réservé aux hommes. güzel = objets, femmes, temps, ambiances. « güzel adam » sonne étrange.",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "eb74561a1198",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "Lequel est INCORRECT ?",
+  "answer": "yakışıklı araba",
+  "alternatives": [],
+  "choices": [
+   "güzel hava",
+   "güzel kadın",
+   "yakışıklı araba",
+   "yakışıklı adam"
+  ],
+  "hint": "",
+  "explanation": "yakışıklı ne s'emploie que pour un homme. Une belle voiture = güzel araba.",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "9790cb05f910",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **gelmek** au passé continu (ben)",
+  "answer": "geliyordum",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "gel + iyor + du + m → geliyordum. -du ne change jamais : il suit le o de -yor.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "d7fd68fb1ece",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **gelmek** au passé continu (o)",
+  "answer": "geliyordu",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "gel + iyor + du (3e personne sans suffixe) → geliyordu.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "05e20a95b474",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **bakmak** au passé continu (ben)",
+  "answer": "bakıyordum",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "bak + ıyor + du + m → bakıyordum (harmonie a → ı).",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "8f9d16fa9e43",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **gelmek** au passé continu (ben) — forme négatif",
+  "answer": "gelmiyordum",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "gel + mi + yor + du + m → gelmiyordum. Le -me du négatif devient -mi devant -yor.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "127f4e8d998f",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "conjugation",
+  "display_prompt": "Conjugue **okumak** au passé continu (biz)",
+  "answer": "okuyorduk",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "oku + yor + du + k → okuyorduk. Racine en voyelle : pas de voyelle ajoutée devant -yor.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "cd3df8f4af50",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Je marchais, soudain il s'est mis à pleuvoir.",
+  "answer": "Yürüyordum, aniden yağmur yağdı.",
+  "alternatives": [
+   "Yürüyordum aniden yağmur yağdı.",
+   "Yürüyordum, birdenbire yağmur yağdı."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Action en cours (-iyordu) + aniden + action qui interrompt (-DI).",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "7e5d4409afdb",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "mcq",
+  "display_prompt": "« Çocukken her yaz köye gidiyorduk. » — quelle fonction du passé continu ?",
+  "answer": "Routine passée (habitude révolue)",
+  "alternatives": [],
+  "choices": [
+   "Routine passée (habitude révolue)",
+   "« Unuttum » : j'avais oublié (forme interrogative)",
+   "Az kaldı / neredeyse : j'ai failli",
+   "Action en cours interrompue",
+   "Négation neutre d'une action passée",
+   "Actions simultanées"
+  ],
+  "hint": "",
+  "explanation": "her yaz + -iyordu = habitude d'autrefois, qui n'a plus cours.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "4e1fd90c0555",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "mcq",
+  "display_prompt": "« Neredeyse düşüyordum! » — quelle fonction du passé continu ?",
+  "answer": "Az kaldı / neredeyse : j'ai failli",
+  "alternatives": [],
+  "choices": [
+   "Routine passée (habitude révolue)",
+   "« Unuttum » : j'avais oublié (forme interrogative)",
+   "Az kaldı / neredeyse : j'ai failli",
+   "Action en cours interrompue",
+   "Négation neutre d'une action passée",
+   "Actions simultanées"
+  ],
+  "hint": "",
+  "explanation": "neredeyse / az kaldı + passé continu = l'action allait se produire mais ne s'est pas produite.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "a727fe6367b1",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "mcq",
+  "display_prompt": "« Yemek yapıyordum, birdenbire elektrik kesildi. » — quelle fonction du passé continu ?",
+  "answer": "Action en cours interrompue",
+  "alternatives": [],
+  "choices": [
+   "Routine passée (habitude révolue)",
+   "« Unuttum » : j'avais oublié (forme interrogative)",
+   "Az kaldı / neredeyse : j'ai failli",
+   "Action en cours interrompue",
+   "Négation neutre d'une action passée",
+   "Actions simultanées"
+  ],
+  "hint": "",
+  "explanation": "Action de fond (-iyordu) + birdenbire/aniden/tam + événement ponctuel (-DI).",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "5e9b055099b8",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "mcq",
+  "display_prompt": "« O zamanlar et yemiyordum. » — quelle fonction du passé continu ?",
+  "answer": "Négation neutre d'une action passée",
+  "alternatives": [],
+  "choices": [
+   "Routine passée (habitude révolue)",
+   "« Unuttum » : j'avais oublié (forme interrogative)",
+   "Az kaldı / neredeyse : j'ai failli",
+   "Action en cours interrompue",
+   "Négation neutre d'une action passée",
+   "Actions simultanées"
+  ],
+  "hint": "",
+  "explanation": "Constat négatif sur une période passée, sans viser un moment précis.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "69d2f3fe1dce",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "mcq",
+  "display_prompt": "« Ben ders çalışıyordum, kardeşim oyun oynuyordu. » — quelle fonction du passé continu ?",
+  "answer": "Actions simultanées",
+  "alternatives": [],
+  "choices": [
+   "Routine passée (habitude révolue)",
+   "« Unuttum » : j'avais oublié (forme interrogative)",
+   "Az kaldı / neredeyse : j'ai failli",
+   "Action en cours interrompue",
+   "Négation neutre d'une action passée",
+   "Actions simultanées"
+  ],
+  "hint": "",
+  "explanation": "Deux actions en -iyordu côte à côte = elles se déroulaient en même temps.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "d04b7ab21879",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "mcq",
+  "display_prompt": "« Sen kahve içmiyor muydun? » (Ah, j'avais oublié…) — quelle fonction du passé continu ?",
+  "answer": "« Unuttum » : j'avais oublié (forme interrogative)",
+  "alternatives": [],
+  "choices": [
+   "Routine passée (habitude révolue)",
+   "« Unuttum » : j'avais oublié (forme interrogative)",
+   "Az kaldı / neredeyse : j'ai failli",
+   "Action en cours interrompue",
+   "Négation neutre d'une action passée",
+   "Actions simultanées"
+  ],
+  "hint": "",
+  "explanation": "Uniquement en interrogatif : on vérifie quelque chose qu'on savait mais qu'on avait oublié.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "0e5ac94e10d2",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "mcq",
+  "display_prompt": "Avant je fumais, maintenant je fume toujours. Quel adverbe ?",
+  "answer": "hâlâ",
+  "alternatives": [],
+  "choices": [
+   "artık",
+   "hâlâ"
+  ],
+  "hint": "",
+  "explanation": "+ → + = continuité → hâlâ : Hâlâ sigara içiyorum.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "faf6be69f843",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "mcq",
+  "display_prompt": "Avant je fumais, maintenant je ne fume plus. Quel adverbe ?",
+  "answer": "artık",
+  "alternatives": [],
+  "choices": [
+   "artık",
+   "hâlâ"
+  ],
+  "hint": "",
+  "explanation": "+ → - = rupture → artık : Artık sigara içmiyorum.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "a7cbba28e22c",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "mcq",
+  "display_prompt": "Avant je ne parlais pas turc, maintenant je le parle. Quel adverbe ?",
+  "answer": "artık",
+  "alternatives": [],
+  "choices": [
+   "artık",
+   "hâlâ"
+  ],
+  "hint": "",
+  "explanation": "- → + = rupture → artık : Artık Türkçe konuşuyorum.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "b61e6b2db557",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "mcq",
+  "display_prompt": "Avant je ne buvais pas de café, maintenant je n'en bois toujours pas. Quel adverbe ?",
+  "answer": "hâlâ",
+  "alternatives": [],
+  "choices": [
+   "artık",
+   "hâlâ"
+  ],
+  "hint": "",
+  "explanation": "- → - = continuité → hâlâ : Hâlâ kahve içmiyorum.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "e753e782e804",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Je ne fume plus.",
+  "answer": "Artık sigara içmiyorum.",
+  "alternatives": [
+   "Artık sigara içmiyorum"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Rupture (+ → -) → artık + négatif.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
+ },
+ {
+  "id": "4352665b0915",
+  "theme": "Passé continu -iyordu (et artık / hâlâ)",
+  "theme_slug": "passe_continu",
+  "type": "translation",
+  "display_prompt": "[FR → TR] J'habite toujours à Paris.",
+  "answer": "Hâlâ Paris'te yaşıyorum.",
+  "alternatives": [
+   "Hâlâ Paris'te yaşıyorum",
+   "Hâlâ Paris'te oturuyorum."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Continuité (+ → +) → hâlâ. Paris + locatif (s sourd → -te), apostrophe.",
+  "reference": "turc_reference_grammaire.md#63-passé-continu--iyordu"
  },
  {
   "id": "c0cc15bf17b2",
@@ -2569,6 +3684,91 @@
   "choices": [],
   "hint": "",
   "explanation": "güzel + miş = -mIş sur prédicat nominal (adj + mIş sans voyelle de liaison — güzel finit par consonne). Usage yorum var / je le vois pour la première fois.",
+  "reference": "turc_reference_grammaire.md#66--mış--belirsiz-geçmiş-zaman-passé-indéfini--narratif--dinférence"
+ },
+ {
+  "id": "277867cd5e02",
+  "theme": "Passé indéfini / narratif -mIş (Belirsiz Geçmiş Zaman)",
+  "theme_slug": "passe_narratif_mis",
+  "type": "mcq",
+  "display_prompt": "« Duydun mu? Komşumuz taşınmış. » — quelle fonction de -mIş ?",
+  "answer": "Rapporté (on me l'a dit)",
+  "alternatives": [],
+  "choices": [
+   "Rapporté (on me l'a dit)",
+   "Découverte après coup (sonradan fark ettim)",
+   "Conte / récit traditionnel"
+  ],
+  "hint": "",
+  "explanation": "Duydun mu? (tu as entendu ?) annonce une information transmise par d'autres.",
+  "reference": "turc_reference_grammaire.md#66--mış--belirsiz-geçmiş-zaman-passé-indéfini--narratif--dinférence"
+ },
+ {
+  "id": "e89569ff83d6",
+  "theme": "Passé indéfini / narratif -mIş (Belirsiz Geçmiş Zaman)",
+  "theme_slug": "passe_narratif_mis",
+  "type": "mcq",
+  "display_prompt": "« Aaa! Saat on olmuş! » — quelle fonction de -mIş ?",
+  "answer": "Découverte après coup (sonradan fark ettim)",
+  "alternatives": [],
+  "choices": [
+   "Rapporté (on me l'a dit)",
+   "Découverte après coup (sonradan fark ettim)",
+   "Conte / récit traditionnel"
+  ],
+  "hint": "",
+  "explanation": "Aaa! + -mIş = je viens de m'en rendre compte (il est déjà 10 h !).",
+  "reference": "turc_reference_grammaire.md#66--mış--belirsiz-geçmiş-zaman-passé-indéfini--narratif--dinférence"
+ },
+ {
+  "id": "6aa210c75590",
+  "theme": "Passé indéfini / narratif -mIş (Belirsiz Geçmiş Zaman)",
+  "theme_slug": "passe_narratif_mis",
+  "type": "mcq",
+  "display_prompt": "« Bir varmış, bir yokmuş, bir padişah varmış… » — quelle fonction de -mIş ?",
+  "answer": "Conte / récit traditionnel",
+  "alternatives": [],
+  "choices": [
+   "Rapporté (on me l'a dit)",
+   "Découverte après coup (sonradan fark ettim)",
+   "Conte / récit traditionnel"
+  ],
+  "hint": "",
+  "explanation": "Formule d'ouverture des contes (« Il était une fois »). -mIş est le temps du merveilleux.",
+  "reference": "turc_reference_grammaire.md#66--mış--belirsiz-geçmiş-zaman-passé-indéfini--narratif--dinférence"
+ },
+ {
+  "id": "6fa9b82f0182",
+  "theme": "Passé indéfini / narratif -mIş (Belirsiz Geçmiş Zaman)",
+  "theme_slug": "passe_narratif_mis",
+  "type": "mcq",
+  "display_prompt": "« Off! Cüzdanımı evde unutmuşum. » — quelle fonction de -mIş ?",
+  "answer": "Découverte après coup (sonradan fark ettim)",
+  "alternatives": [],
+  "choices": [
+   "Rapporté (on me l'a dit)",
+   "Découverte après coup (sonradan fark ettim)",
+   "Conte / récit traditionnel"
+  ],
+  "hint": "",
+  "explanation": "Je constate seulement maintenant que j'ai oublié mon portefeuille.",
+  "reference": "turc_reference_grammaire.md#66--mış--belirsiz-geçmiş-zaman-passé-indéfini--narratif--dinférence"
+ },
+ {
+  "id": "f70d02f0f1f9",
+  "theme": "Passé indéfini / narratif -mIş (Belirsiz Geçmiş Zaman)",
+  "theme_slug": "passe_narratif_mis",
+  "type": "mcq",
+  "display_prompt": "« Duyduğuma göre Emin İstanbul'a taşınmış. » — quelle fonction de -mIş ?",
+  "answer": "Rapporté (on me l'a dit)",
+  "alternatives": [],
+  "choices": [
+   "Rapporté (on me l'a dit)",
+   "Découverte après coup (sonradan fark ettim)",
+   "Conte / récit traditionnel"
+  ],
+  "hint": "",
+  "explanation": "Duyduğuma göre (d'après ce que j'ai entendu) + -mIş = information rapportée.",
   "reference": "turc_reference_grammaire.md#66--mış--belirsiz-geçmiş-zaman-passé-indéfini--narratif--dinférence"
  },
  {
@@ -3163,6 +4363,90 @@
   "reference": "turc_reference_grammaire.md#73--yabilmek--pouvoir-capacité-requête-polie"
  },
  {
+  "id": "253b9886b949",
+  "theme": "Mode du potentiel -(y)Abilmek",
+  "theme_slug": "potentiel_abilmek",
+  "type": "mcq",
+  "display_prompt": "« Üç dil konuşabiliyorum. » — quelle fonction de -(y)Abil ?",
+  "answer": "Capacité (savoir / pouvoir faire)",
+  "alternatives": [],
+  "choices": [
+   "Capacité (savoir / pouvoir faire)",
+   "Permission",
+   "Requête polie"
+  ],
+  "hint": "",
+  "explanation": "konuş + abil + iyor + um = je suis capable de parler trois langues.",
+  "reference": "turc_reference_grammaire.md#73--yabilmek--pouvoir-capacité-requête-polie"
+ },
+ {
+  "id": "b2d35becb2d3",
+  "theme": "Mode du potentiel -(y)Abilmek",
+  "theme_slug": "potentiel_abilmek",
+  "type": "mcq",
+  "display_prompt": "« Artık gidebilirsin. » — quelle fonction de -(y)Abil ?",
+  "answer": "Permission",
+  "alternatives": [],
+  "choices": [
+   "Capacité (savoir / pouvoir faire)",
+   "Permission",
+   "Requête polie"
+  ],
+  "hint": "",
+  "explanation": "Tu peux partir maintenant = autorisation. Souvent au geniş zaman : gidebilirsin.",
+  "reference": "turc_reference_grammaire.md#73--yabilmek--pouvoir-capacité-requête-polie"
+ },
+ {
+  "id": "24bb925224bf",
+  "theme": "Mode du potentiel -(y)Abilmek",
+  "theme_slug": "potentiel_abilmek",
+  "type": "mcq",
+  "display_prompt": "« Kapıyı açabilir misiniz? » — quelle fonction de -(y)Abil ?",
+  "answer": "Requête polie",
+  "alternatives": [],
+  "choices": [
+   "Capacité (savoir / pouvoir faire)",
+   "Permission",
+   "Requête polie"
+  ],
+  "hint": "",
+  "explanation": "V-(y)Abilir misin/misiniz? = formule standard de demande polie (« pourriez-vous… »).",
+  "reference": "turc_reference_grammaire.md#73--yabilmek--pouvoir-capacité-requête-polie"
+ },
+ {
+  "id": "eed9cefcf322",
+  "theme": "Mode du potentiel -(y)Abilmek",
+  "theme_slug": "potentiel_abilmek",
+  "type": "mcq",
+  "display_prompt": "« Yüzebiliyor musun? » — quelle fonction de -(y)Abil ?",
+  "answer": "Capacité (savoir / pouvoir faire)",
+  "alternatives": [],
+  "choices": [
+   "Capacité (savoir / pouvoir faire)",
+   "Permission",
+   "Requête polie"
+  ],
+  "hint": "",
+  "explanation": "Tu sais nager ? = question sur la capacité (présent continu -iyor).",
+  "reference": "turc_reference_grammaire.md#73--yabilmek--pouvoir-capacité-requête-polie"
+ },
+ {
+  "id": "e5120f8cdf7b",
+  "theme": "Mode du potentiel -(y)Abilmek",
+  "theme_slug": "potentiel_abilmek",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Tu peux entrer. (permission)",
+  "answer": "Girebilirsin.",
+  "alternatives": [
+   "Girebilirsin",
+   "İçeri girebilirsin."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "gir + ebil + ir + sin → girebilirsin.",
+  "reference": "turc_reference_grammaire.md#73--yabilmek--pouvoir-capacité-requête-polie"
+ },
+ {
   "id": "1802de8b6820",
   "theme": "Prédicat nominal & négation (değil, var, yok)",
   "theme_slug": "predicat_negation",
@@ -3535,6 +4819,91 @@
   "reference": "turc_reference_grammaire.md#61-présent-continu--yor"
  },
  {
+  "id": "10004760fc43",
+  "theme": "Présent continu -yor",
+  "theme_slug": "present_continu",
+  "type": "mcq",
+  "display_prompt": "« Şu an televizyon izliyorum. » — quelle fonction de -yor ?",
+  "answer": "Action en cours",
+  "alternatives": [],
+  "choices": [
+   "Action en cours",
+   "Habitude / routine",
+   "Futur proche / planifié"
+  ],
+  "hint": "",
+  "explanation": "şu an = en ce moment : action en cours.",
+  "reference": "turc_reference_grammaire.md#61-présent-continu--yor"
+ },
+ {
+  "id": "0c61a9e6c49d",
+  "theme": "Présent continu -yor",
+  "theme_slug": "present_continu",
+  "type": "mcq",
+  "display_prompt": "« Hafta sonları yüzüyorum. » — quelle fonction de -yor ?",
+  "answer": "Habitude / routine",
+  "alternatives": [],
+  "choices": [
+   "Action en cours",
+   "Habitude / routine",
+   "Futur proche / planifié"
+  ],
+  "hint": "",
+  "explanation": "hafta sonları = les week-ends (en général) : habitude. Le français dirait « je nage ».",
+  "reference": "turc_reference_grammaire.md#61-présent-continu--yor"
+ },
+ {
+  "id": "7e363abfda40",
+  "theme": "Présent continu -yor",
+  "theme_slug": "present_continu",
+  "type": "mcq",
+  "display_prompt": "« Gelecek hafta Ankara'ya gidiyoruz. » — quelle fonction de -yor ?",
+  "answer": "Futur proche / planifié",
+  "alternatives": [],
+  "choices": [
+   "Action en cours",
+   "Habitude / routine",
+   "Futur proche / planifié"
+  ],
+  "hint": "",
+  "explanation": "gelecek hafta + -yor = projet décidé, comme « on part la semaine prochaine ».",
+  "reference": "turc_reference_grammaire.md#61-présent-continu--yor"
+ },
+ {
+  "id": "f78e9ba739b6",
+  "theme": "Présent continu -yor",
+  "theme_slug": "present_continu",
+  "type": "mcq",
+  "display_prompt": "« Emin her akşam kitap okuyor. » — quelle fonction de -yor ?",
+  "answer": "Habitude / routine",
+  "alternatives": [],
+  "choices": [
+   "Action en cours",
+   "Habitude / routine",
+   "Futur proche / planifié"
+  ],
+  "hint": "",
+  "explanation": "her akşam = chaque soir : routine.",
+  "reference": "turc_reference_grammaire.md#61-présent-continu--yor"
+ },
+ {
+  "id": "f5f3b43ef7b9",
+  "theme": "Présent continu -yor",
+  "theme_slug": "present_continu",
+  "type": "mcq",
+  "display_prompt": "« Bu akşam arkadaşlarla buluşuyorum. » — quelle fonction de -yor ?",
+  "answer": "Futur proche / planifié",
+  "alternatives": [],
+  "choices": [
+   "Action en cours",
+   "Habitude / routine",
+   "Futur proche / planifié"
+  ],
+  "hint": "",
+  "explanation": "bu akşam (ce soir) : rendez-vous déjà prévu, donc futur proche.",
+  "reference": "turc_reference_grammaire.md#61-présent-continu--yor"
+ },
+ {
   "id": "53c745836ef2",
   "theme": "Réclamer — restaurant, avion (şikâyet, iade, ikram)",
   "theme_slug": "reclamation",
@@ -3877,6 +5246,271 @@
   "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
  },
  {
+  "id": "e8d48c8d4203",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "mcq",
+  "display_prompt": "« Sizce bu film güzel mi? » — quelle fonction de -CA ?",
+  "answer": "1. Opinion (sur un pronom)",
+  "alternatives": [],
+  "choices": [
+   "1. Opinion (sur un pronom)",
+   "2. Nom de langue",
+   "3. Approximation : « plutôt… »",
+   "4. Adverbe de manière",
+   "5. Multitude / longue durée",
+   "6. Groupe collectif",
+   "7. Critère de comparaison"
+  ],
+  "hint": "",
+  "explanation": "siz + ce = sizce = size göre = à votre avis.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "4bdc09741387",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "mcq",
+  "display_prompt": "« Almanca biliyor musun? » — quelle fonction de -CA ?",
+  "answer": "2. Nom de langue",
+  "alternatives": [],
+  "choices": [
+   "1. Opinion (sur un pronom)",
+   "2. Nom de langue",
+   "3. Approximation : « plutôt… »",
+   "4. Adverbe de manière",
+   "5. Multitude / longue durée",
+   "6. Groupe collectif",
+   "7. Critère de comparaison"
+  ],
+  "hint": "",
+  "explanation": "Alman (peuple) + -ca = Almanca (la langue allemande).",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "2c3707fe7ed6",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "mcq",
+  "display_prompt": "« Büyükçe bir ev kiraladık. » — quelle fonction de -CA ?",
+  "answer": "3. Approximation : « plutôt… »",
+  "alternatives": [],
+  "choices": [
+   "1. Opinion (sur un pronom)",
+   "2. Nom de langue",
+   "3. Approximation : « plutôt… »",
+   "4. Adverbe de manière",
+   "5. Multitude / longue durée",
+   "6. Groupe collectif",
+   "7. Critère de comparaison"
+  ],
+  "hint": "",
+  "explanation": "büyük + çe (k sourd → -çe) = büyükçe = assez grand, plutôt grand. Sur un adjectif devant un nom.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "cc36f21e7177",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "mcq",
+  "display_prompt": "« Çocuk odaya sessizce girdi. » — quelle fonction de -CA ?",
+  "answer": "4. Adverbe de manière",
+  "alternatives": [],
+  "choices": [
+   "1. Opinion (sur un pronom)",
+   "2. Nom de langue",
+   "3. Approximation : « plutôt… »",
+   "4. Adverbe de manière",
+   "5. Multitude / longue durée",
+   "6. Groupe collectif",
+   "7. Critère de comparaison"
+  ],
+  "hint": "",
+  "explanation": "sessiz + ce = sessizce = silencieusement. L'adjectif devient adverbe et modifie le verbe.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "2573c29ce278",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "mcq",
+  "display_prompt": "« Bu soruyu kolayca çözdüm. » — quelle fonction de -CA ?",
+  "answer": "4. Adverbe de manière",
+  "alternatives": [],
+  "choices": [
+   "1. Opinion (sur un pronom)",
+   "2. Nom de langue",
+   "3. Approximation : « plutôt… »",
+   "4. Adverbe de manière",
+   "5. Multitude / longue durée",
+   "6. Groupe collectif",
+   "7. Critère de comparaison"
+  ],
+  "hint": "",
+  "explanation": "kolay + ca = kolayca = facilement. Il porte sur le verbe (çözdüm), pas sur un nom.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "dfd9810acd50",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "mcq",
+  "display_prompt": "« Yıllarca İstanbul'da yaşadım. » — quelle fonction de -CA ?",
+  "answer": "5. Multitude / longue durée",
+  "alternatives": [],
+  "choices": [
+   "1. Opinion (sur un pronom)",
+   "2. Nom de langue",
+   "3. Approximation : « plutôt… »",
+   "4. Adverbe de manière",
+   "5. Multitude / longue durée",
+   "6. Groupe collectif",
+   "7. Critère de comparaison"
+  ],
+  "hint": "",
+  "explanation": "yıl + lar + ca = yıllarca = pendant des années. Pluriel + -CA = grande quantité ou longue durée.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "e8a7c3b2ff45",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "mcq",
+  "display_prompt": "« Konsere binlerce kişi geldi. » — quelle fonction de -CA ?",
+  "answer": "5. Multitude / longue durée",
+  "alternatives": [],
+  "choices": [
+   "1. Opinion (sur un pronom)",
+   "2. Nom de langue",
+   "3. Approximation : « plutôt… »",
+   "4. Adverbe de manière",
+   "5. Multitude / longue durée",
+   "6. Groupe collectif",
+   "7. Critère de comparaison"
+  ],
+  "hint": "",
+  "explanation": "bin + ler + ce = binlerce = des milliers.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "1a5865eb7210",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "mcq",
+  "display_prompt": "« Sınıfça müzeye gittik. » — quelle fonction de -CA ?",
+  "answer": "6. Groupe collectif",
+  "alternatives": [],
+  "choices": [
+   "1. Opinion (sur un pronom)",
+   "2. Nom de langue",
+   "3. Approximation : « plutôt… »",
+   "4. Adverbe de manière",
+   "5. Multitude / longue durée",
+   "6. Groupe collectif",
+   "7. Critère de comparaison"
+  ],
+  "hint": "",
+  "explanation": "sınıf + ça (f sourd → -ça) = sınıfça = toute la classe ensemble. Comme ailece (en famille).",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "0906ca3a5445",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "mcq",
+  "display_prompt": "« Kardeşim yaşça benden büyük. » — quelle fonction de -CA ?",
+  "answer": "7. Critère de comparaison",
+  "alternatives": [],
+  "choices": [
+   "1. Opinion (sur un pronom)",
+   "2. Nom de langue",
+   "3. Approximation : « plutôt… »",
+   "4. Adverbe de manière",
+   "5. Multitude / longue durée",
+   "6. Groupe collectif",
+   "7. Critère de comparaison"
+  ],
+  "hint": "",
+  "explanation": "yaş + ça = yaşça = du point de vue de l'âge. Indique sur quel critère porte la comparaison (comme boyca = par la taille).",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "114f0434ee67",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "mcq",
+  "display_prompt": "« Ucuzca bir otel bulduk. » — quelle fonction de -CA ?",
+  "answer": "3. Approximation : « plutôt… »",
+  "alternatives": [],
+  "choices": [
+   "1. Opinion (sur un pronom)",
+   "2. Nom de langue",
+   "3. Approximation : « plutôt… »",
+   "4. Adverbe de manière",
+   "5. Multitude / longue durée",
+   "6. Groupe collectif",
+   "7. Critère de comparaison"
+  ],
+  "hint": "",
+  "explanation": "ucuz + ca = ucuzca = plutôt bon marché. Piège : ucuzca n'est pas « de manière bon marché », il qualifie le nom otel.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "1fa70366c08f",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "fill_blank",
+  "display_prompt": "Gün____ ders çalıştım ama sınavdan kaldım. (J'ai étudié pendant des jours.)",
+  "answer": "lerce",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Fonction 5 : gün + ler + ce = günlerce.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "53a57504e744",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "fill_blank",
+  "display_prompt": "Lütfen yavaş____ konuşun. (Parlez lentement, s'il vous plaît.)",
+  "answer": "ça",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Fonction 4 : yavaş + ça (ş sourd → -ça) = yavaşça = lentement.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "0450ea7a62db",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "fill_blank",
+  "display_prompt": "Biz ____ kahvaltı yapıyoruz. (Nous prenons le petit-déjeuner en famille.)",
+  "answer": "ailece",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Fonction 6 : aile + ce = ailece.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
+  "id": "a15604e72c45",
+  "theme": "Le suffixe -CA (eşitlik eki) — 7 fonctions",
+  "theme_slug": "suffixe_ca",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Ma sœur parle anglais. (langue avec -CA)",
+  "answer": "Kız kardeşim İngilizce konuşuyor.",
+  "alternatives": [
+   "Kız kardeşim İngilizce konuşuyor",
+   "Ablam İngilizce konuşuyor."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Fonction 2 : İngiliz + ce = İngilizce.",
+  "reference": "turc_reference_grammaire.md#1011--le-suffixe--ca--eşitlik-eki--sept-fonctions"
+ },
+ {
   "id": "7ef3336a834c",
   "theme": "Valence verbale (verbe + cas)",
   "theme_slug": "valence_verbale",
@@ -4214,6 +5848,32 @@
   "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
  },
  {
+  "id": "582714cadc63",
+  "theme": "Valence verbale (verbe + cas)",
+  "theme_slug": "valence_verbale",
+  "type": "fill_blank",
+  "display_prompt": "Türk yemekleri____ çok hoşlanıyorum. (J'aime beaucoup la cuisine turque.)",
+  "answer": "nden",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "hoşlanmak + ablatif : yemekleri (possessif 3e pers.) + n de liaison + den → yemeklerinden.",
+  "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
+  "id": "af261aabf368",
+  "theme": "Valence verbale (verbe + cas)",
+  "theme_slug": "valence_verbale",
+  "type": "fill_blank",
+  "display_prompt": "Dağ____ tırmanıyoruz. (Nous grimpons la montagne.)",
+  "answer": "a",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "tırmanmak + datif : dağa (escalader vers le sommet).",
+  "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
   "id": "7978631e12cf",
   "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
   "theme_slug": "verbes_confusables",
@@ -4417,6 +6077,83 @@
   ],
   "hint": "",
   "explanation": "Chanter = *şarkı söylemek* (« dire une chanson »).",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "e01a7a67eeec",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "translation",
+  "display_prompt": "[TR → FR] Telefon çalıyor.",
+  "answer": "Le téléphone sonne.",
+  "alternatives": [
+   "Le téléphone sonne"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "çalmak sans objet, avec un appareil comme sujet = sonner.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "48fdcd07f88a",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "translation",
+  "display_prompt": "[TR → FR] Biri telefonumu çaldı.",
+  "answer": "Quelqu'un a volé mon téléphone.",
+  "alternatives": [
+   "Quelqu'un a volé mon téléphone"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "çalmak + objet volé à l'accusatif = voler.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "154e15198025",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Je joue de la guitare.",
+  "answer": "Gitar çalıyorum.",
+  "alternatives": [
+   "Gitar çalıyorum",
+   "Ben gitar çalıyorum."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "çalmak + instrument (sans suffixe) = jouer d'un instrument.",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "8aa7f7b83b6a",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Comment se sont passées les vacances ?",
+  "answer": "Tatil nasıl geçti?",
+  "alternatives": [
+   "Tatil nasıl geçti",
+   "Tatilin nasıl geçti?"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "geçmek = se passer (pour une durée, un événement).",
+  "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
+ },
+ {
+  "id": "7faf9a268681",
+  "theme": "Verbes confusables — savoir/connaître, parler/dire, regarder",
+  "theme_slug": "verbes_confusables",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Cette odeur me dérange.",
+  "answer": "Bu koku beni rahatsız ediyor.",
+  "alternatives": [
+   "Bu koku beni rahatsız ediyor"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "rahatsız olmak = être dérangé (état) / rahatsız etmek = déranger quelqu'un (cause). La personne affectée est à l'accusatif : beni.",
   "reference": "turc_reference_sessions.md#123-bilmek-vs-tanımak--savoir-vs-connaître-fiche-perso-du-1610"
  }
 ]
