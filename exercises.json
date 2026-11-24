@@ -1527,6 +1527,76 @@
   "reference": "turc_reference_grammaire.md#98-adverbes-de-fréquence"
  },
  {
+  "id": "64ccc96f6232",
+  "theme": "Adverbes : fréquence et manière (zarflar)",
+  "theme_slug": "frequence_adverbes",
+  "type": "mcq",
+  "display_prompt": "Synonyme de « büyük olasılıkla » ?",
+  "answer": "büyük ihtimalle",
+  "alternatives": [],
+  "choices": [
+   "genellikle",
+   "büyük ihtimalle",
+   "ara sıra",
+   "hiçbir zaman"
+  ],
+  "hint": "",
+  "explanation": "olasılık = ihtimal = probabilité. büyük olasılıkla / büyük ihtimalle = très probablement. Ce n'est pas une fréquence.",
+  "reference": "turc_reference_grammaire.md#98-adverbes-de-fréquence"
+ },
+ {
+  "id": "2ee59a88afdb",
+  "theme": "Adverbes : fréquence et manière (zarflar)",
+  "theme_slug": "frequence_adverbes",
+  "type": "mcq",
+  "display_prompt": "Synonyme de « çoğunlukla » ?",
+  "answer": "genellikle",
+  "alternatives": [],
+  "choices": [
+   "büyük ihtimalle",
+   "genellikle",
+   "asla",
+   "sanki"
+  ],
+  "hint": "",
+  "explanation": "çoğunlukla (de çok) = la plupart du temps = genellikle (80-90 %). C'est une fréquence, pas une probabilité.",
+  "reference": "turc_reference_grammaire.md#98-adverbes-de-fréquence"
+ },
+ {
+  "id": "8879714edb31",
+  "theme": "Adverbes : fréquence et manière (zarflar)",
+  "theme_slug": "frequence_adverbes",
+  "type": "mcq",
+  "display_prompt": "« Yonca ____ konsere gelmez, çünkü yatılı misafirleri var. » (elle a des invités → supposition)",
+  "answer": "büyük olasılıkla",
+  "alternatives": [],
+  "choices": [
+   "çoğunlukla",
+   "büyük olasılıkla",
+   "sık sık",
+   "ara sıra"
+  ],
+  "hint": "",
+  "explanation": "On ne parle pas d'habitude mais d'une supposition sur un événement : büyük olasılıkla (très probablement).",
+  "reference": "turc_reference_grammaire.md#98-adverbes-de-fréquence"
+ },
+ {
+  "id": "d8379248d762",
+  "theme": "Adverbes : fréquence et manière (zarflar)",
+  "theme_slug": "frequence_adverbes",
+  "type": "fill_blank",
+  "display_prompt": "Kardeşim ____ yumurta yemez, çünkü alerjisi var.",
+  "answer": "asla",
+  "alternatives": [
+   "hiç",
+   "hiçbir zaman"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Allergie → jamais. asla / hiç / hiçbir zaman + verbe au négatif (yemez).",
+  "reference": "turc_reference_grammaire.md#98-adverbes-de-fréquence"
+ },
+ {
   "id": "6706eb78b3f4",
   "theme": "Futur -(y)AcAk et futur dans le passé -(y)AcAktI",
   "theme_slug": "futur",
@@ -2331,6 +2401,187 @@
   "choices": [],
   "hint": "",
   "explanation": "Négatif biz : ni r ni z → -meyiz / -mayız : etmeyiz. Le z n'apparaît qu'avec sen / o / siz / onlar.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "94b00276c1ac",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Tu peux faire une salade ? (demande polie, sen)",
+  "answer": "Bir salata yapar mısın?",
+  "alternatives": [
+   "Bir salata yapar mısın",
+   "Salata yapar mısın?",
+   "Bana bir salata yapar mısın?"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "yap- : 1 syllabe → -ar. Puis mI suit la voyelle du suffixe précédent : a → mı + sın. Harmonie en chaîne : yapar mısın.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "f09b0511d5ef",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Tu pourrais éteindre ta cigarette ? (avertissement poli, sen)",
+  "answer": "Sigaranı söndürür müsün?",
+  "alternatives": [
+   "Sigaranı söndürür müsün",
+   "Lütfen sigaranı söndürür müsün?"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "« ta » est déjà dans sigara-n-ı. Verbe : söndür + ür (plusieurs syllabes → -Ir, ü → -ür) ⎵ mü + sün.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "a6056f27ae15",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Pourriez-vous signer ici, s'il vous plaît ? (siz)",
+  "answer": "Lütfen şurayı imzalar mısınız?",
+  "alternatives": [
+   "Lütfen şurayı imzalar mısınız",
+   "Şurayı imzalar mısınız?"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "imzala + r (racine en voyelle) ⎵ mı + sınız. Le ? exige le mI.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "740f7c0e1251",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "mcq",
+  "display_prompt": "« Anne, bana para ver____ ? » (tu peux me donner de l'argent ?)",
+  "answer": "verir misin",
+  "alternatives": [],
+  "choices": [
+   "verir mi",
+   "verir misin",
+   "verirsin mi",
+   "versin mi"
+  ],
+  "hint": "",
+  "explanation": "Le suffixe de personne se colle au mI, pas au verbe : verir misin. « verir mi? » = est-ce qu'il/elle donne ?",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "cc637a55a795",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "mcq",
+  "display_prompt": "Aylin vejetaryendir, asla et ____ . (elle ne mange jamais de viande)",
+  "answer": "yemez",
+  "alternatives": [],
+  "choices": [
+   "yemesin",
+   "yemez",
+   "yemezsin",
+   "yemiyor"
+  ],
+  "hint": "",
+  "explanation": "Habitude négative, o → -mAz : yemez. yemesin = qu'elle ne mange pas (impératif). yemezsin = tu ne manges pas.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "c7a249a98eb7",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "mcq",
+  "display_prompt": "Quelle forme est un IMPÉRATIF (ordre) et non un geniş zaman ?",
+  "answer": "gelmesin",
+  "alternatives": [],
+  "choices": [
+   "gelmezsin",
+   "gelmesin",
+   "gelmez",
+   "gelmem"
+  ],
+  "hint": "",
+  "explanation": "-mesin = qu'il ne vienne pas (impératif o). -mezsin = tu ne viens pas (geniş zaman sen). Un seul z fait la différence.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "1e653ea496ea",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "fill_blank",
+  "display_prompt": "Terzi elbise dik____ ve kumaş kes____ . (2 trous, même suffixe — tape-le une fois)",
+  "answer": "er",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "dik-, kes- : 1 syllabe hors exceptions → -Ar, voyelle avant (i, e) → -er : diker, keser. -ar seulement après a/ı/o/u.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "02b13bd85309",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "fill_blank",
+  "display_prompt": "DJ plakla müzik çal____ .",
+  "answer": "ar",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "çal- : 1 syllabe hors exceptions, voyelle a → -ar : çalar.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "83576e209632",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "fill_blank",
+  "display_prompt": "Dünya, Güneş'in çevresinde dön____ .",
+  "answer": "er",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "dön- : 1 syllabe hors exceptions, ö (avant) → -er : döner (vérité générale).",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "295de677cfb4",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "fill_blank",
+  "display_prompt": "Türkiye'de bankalar saat beşte kapan____ .",
+  "answer": "ır",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "kapan- = 2 syllabes → -Ir, dernière voyelle a → -ır : kapanır. Sujet chose au pluriel → verbe au singulier.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "ded982a11331",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "fill_blank",
+  "display_prompt": "Kardeşim hiç sus____! (Mon petit frère ne se tait jamais !)",
+  "answer": "maz",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Négatif o → -mAz, u (arrière) → -maz : susmaz.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "65ebbf0dbb1f",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "fill_blank",
+  "display_prompt": "Babam: « Sizi bir daha asla tatile götür____! » (Je ne vous emmènerai plus jamais en vacances !)",
+  "answer": "mem",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "Négatif ben : ni r ni z → -mAm : götürmem.",
   "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
  },
  {
@@ -4305,6 +4556,53 @@
   "reference": "turc_reference_grammaire.md#8-possession--isim-tamlaması"
  },
  {
+  "id": "0213aa711a74",
+  "theme": "Possessifs et isim tamlaması",
+  "theme_slug": "possessifs",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Le dentiste soigne les dents du patient.",
+  "answer": "Dişçi hastanın dişlerini tedavi eder.",
+  "alternatives": [
+   "Dişçi hastanın dişlerini tedavi eder",
+   "Diş hekimi hastanın dişlerini tedavi eder."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "hasta-nın (génitif) + diş-ler-i (possessif 3e) + n + i (accusatif) → hastanın dişlerini. tedavi et- → eder.",
+  "reference": "turc_reference_grammaire.md#8-possession--isim-tamlaması"
+ },
+ {
+  "id": "a58f4f317b43",
+  "theme": "Possessifs et isim tamlaması",
+  "theme_slug": "possessifs",
+  "type": "fill_blank",
+  "display_prompt": "Ara sıra ağabeyimin ödevleri____ yaparım. (les devoirs de mon grand frère)",
+  "answer": "ni",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "ödevler-i (possessif 3e) + n de liaison + i (accusatif) → ödevlerini.",
+  "reference": "turc_reference_grammaire.md#8-possession--isim-tamlaması"
+ },
+ {
+  "id": "ead5ee3a4263",
+  "theme": "Possessifs et isim tamlaması",
+  "theme_slug": "possessifs",
+  "type": "mcq",
+  "display_prompt": "« les dents du patient » (objet défini du verbe) ?",
+  "answer": "hastanın dişlerini",
+  "alternatives": [],
+  "choices": [
+   "hastani dişin",
+   "hastanın dişlerini",
+   "hastanın dişleri",
+   "hasta dişlerin"
+  ],
+  "hint": "",
+  "explanation": "Possesseur au génitif (-nın) + possédé au possessif 3e (-i) + accusatif avec n de liaison (-ni).",
+  "reference": "turc_reference_grammaire.md#8-possession--isim-tamlaması"
+ },
+ {
   "id": "73d6fb2fa5e5",
   "theme": "Mode du potentiel -(y)Abilmek",
   "theme_slug": "potentiel_abilmek",
@@ -5910,6 +6208,63 @@
   "choices": [],
   "hint": "",
   "explanation": "tırmanmak + datif : dağa (escalader vers le sommet).",
+  "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
+  "id": "482f6d0d0a65",
+  "theme": "Valence verbale (verbe + cas)",
+  "theme_slug": "valence_verbale",
+  "type": "fill_blank",
+  "display_prompt": "Anne____ çok benziyorsun. (Tu ressembles beaucoup à ta mère.)",
+  "answer": "ne",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "benzemek + datif : anne + n (ta) + e → annene.",
+  "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
+  "id": "408d8d018d44",
+  "theme": "Valence verbale (verbe + cas)",
+  "theme_slug": "valence_verbale",
+  "type": "fill_blank",
+  "display_prompt": "Bütün gün bu problem____ uğraştım. (Je me suis démené avec ce problème toute la journée.)",
+  "answer": "le",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "uğraşmak + comitatif -lA : problemle.",
+  "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
+  "id": "2b1d1ccfcb9d",
+  "theme": "Valence verbale (verbe + cas)",
+  "theme_slug": "valence_verbale",
+  "type": "fill_blank",
+  "display_prompt": "Annem ben____ çok kızdı. (Ma mère s'est fâchée contre moi.)",
+  "answer": "a",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "kızmak + datif, et ben → bana (datif irrégulier).",
+  "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
+  "id": "4dd182686f8c",
+  "theme": "Valence verbale (verbe + cas)",
+  "theme_slug": "valence_verbale",
+  "type": "mcq",
+  "display_prompt": "« Bu ailede herkes Fenerbahçeli ____ ! » (tout le monde sera…)",
+  "answer": "olacak",
+  "alternatives": [],
+  "choices": [
+   "olacak",
+   "olacaklar",
+   "olacağız",
+   "olacaksınız"
+  ],
+  "hint": "",
+  "explanation": "herkes (tout le monde) se conjugue au singulier, comme « chacun ».",
   "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
  },
  {
