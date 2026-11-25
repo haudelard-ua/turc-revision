@@ -1440,6 +1440,57 @@
   "reference": "turc_reference_grammaire.md#56-lazım---a-ihtiyacı-var--exprimer-le-besoin-et-la-nécessité"
  },
  {
+  "id": "5e07f76078d0",
+  "theme": "Expressions et structures courantes (lazım / ihtiyaç / kaçırmak / excuses / idiomes gibi)",
+  "theme_slug": "expressions_courantes",
+  "type": "translation",
+  "display_prompt": "[TR → FR] At gözlüğü takıyor.",
+  "answer": "Il a des œillères.",
+  "alternatives": [
+   "Elle a des œillères.",
+   "Il porte des œillères.",
+   "Il ne voit qu'une seule chose."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Métaphore : sadece bir şeyi görüyor, başka şeyi görmüyor.",
+  "reference": "turc_reference_grammaire.md#56-lazım---a-ihtiyacı-var--exprimer-le-besoin-et-la-nécessité"
+ },
+ {
+  "id": "4b064c5d9254",
+  "theme": "Expressions et structures courantes (lazım / ihtiyaç / kaçırmak / excuses / idiomes gibi)",
+  "theme_slug": "expressions_courantes",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Ne te moque pas de moi !",
+  "answer": "Benimle dalga geçme!",
+  "alternatives": [
+   "Benimle dalga geçme",
+   "Benimle alay etme!",
+   "Benimle alay etme"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "dalga geçmek = alay etmek, avec -lA (benimle). Impératif négatif sen : geçme.",
+  "reference": "turc_reference_grammaire.md#56-lazım---a-ihtiyacı-var--exprimer-le-besoin-et-la-nécessité"
+ },
+ {
+  "id": "498cd2a87379",
+  "theme": "Expressions et structures courantes (lazım / ihtiyaç / kaçırmak / excuses / idiomes gibi)",
+  "theme_slug": "expressions_courantes",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Il/elle est exactement fait(e) pour moi.",
+  "answer": "O tam bana uygun.",
+  "alternatives": [
+   "O tam bana uygun",
+   "Tam bana uygun.",
+   "O tam bana uygun bir insan."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "tam … uygun = 100 % fit, avec le datif : bana, ona.",
+  "reference": "turc_reference_grammaire.md#56-lazım---a-ihtiyacı-var--exprimer-le-besoin-et-la-nécessité"
+ },
+ {
   "id": "e0e40f150e5a",
   "theme": "Adverbes : fréquence et manière (zarflar)",
   "theme_slug": "frequence_adverbes",
@@ -2585,6 +2636,142 @@
   "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
  },
  {
+  "id": "98decdfbab37",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "mcq",
+  "display_prompt": "« Benimle evlenir misin? » — quel type d'énoncé ?",
+  "answer": "Teklif (proposition)",
+  "alternatives": [],
+  "choices": [
+   "Teklif (proposition)",
+   "Rica (demande polie)",
+   "Uyarı (avertissement)"
+  ],
+  "hint": "",
+  "explanation": "Benimle … -r misin? = proposition (ici romantique). Équivaut à … yapalım mı?",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "14495465a468",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "mcq",
+  "display_prompt": "« Pardon, bakar mısınız? » (au serveur) — quel type d'énoncé ?",
+  "answer": "Rica (demande polie)",
+  "alternatives": [],
+  "choices": [
+   "Teklif (proposition)",
+   "Rica (demande polie)",
+   "Uyarı (avertissement)"
+  ],
+  "hint": "",
+  "explanation": "On demande un service poliment : rica. Geniş zaman + mI + siz.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "a4f3287523eb",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "mcq",
+  "display_prompt": "Le médecin : « Lütfen sigarayı bırakın. » — quel type d'énoncé ?",
+  "answer": "Uyarı (avertissement)",
+  "alternatives": [],
+  "choices": [
+   "Teklif (proposition)",
+   "Rica (demande polie)",
+   "Uyarı (avertissement)"
+  ],
+  "hint": "",
+  "explanation": "Il y a un risque (yapmıyorsun, risk var) : avertissement. Impératif siz + lütfen.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "c0b556a4d473",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "mcq",
+  "display_prompt": "« Ayakkabını çıkarır mısın? » (l'enfant entre avec ses chaussures) — quel type d'énoncé ?",
+  "answer": "Uyarı (avertissement)",
+  "alternatives": [],
+  "choices": [
+   "Teklif (proposition)",
+   "Rica (demande polie)",
+   "Uyarı (avertissement)"
+  ],
+  "hint": "",
+  "explanation": "Avertissement poli (normal uyarı). Plus sec : Ayakkabını çıkar lütfen, puis Ayakkabını çıkar!",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "f4cb277950f7",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "mcq",
+  "display_prompt": "« Rica ediyorum, kapıyı açar mısınız? » — quel type d'énoncé ?",
+  "answer": "Rica (demande polie)",
+  "alternatives": [],
+  "choices": [
+   "Teklif (proposition)",
+   "Rica (demande polie)",
+   "Uyarı (avertissement)"
+  ],
+  "hint": "",
+  "explanation": "rica ediyorum = je vous en prie. = Rica ediyorum, lütfen kapıyı açın.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "da6e4faac48a",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "mcq",
+  "display_prompt": "Avertissement : lequel est le PLUS poli ?",
+  "answer": "Ayakkabını çıkarır mısın?",
+  "alternatives": [],
+  "choices": [
+   "Ayakkabını çıkarır mısın?",
+   "Ayakkabını çıkar lütfen.",
+   "Ayakkabını çıkar!"
+  ],
+  "hint": "",
+  "explanation": "Geniş zaman + mI (kibar) > impératif + lütfen > impératif seul (ordre sec).",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "eea3f3f6b4e2",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Tu viens à Taksim avec moi ? (proposition)",
+  "answer": "Benimle Taksim'e gelir misin?",
+  "alternatives": [
+   "Benimle Taksim'e gelir misin",
+   "Beraber Taksim'e gidelim mi?",
+   "Birlikte Taksim'e gidelim mi?"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Teklif : Benimle + geniş zaman + mI. Équivalent : Beraber/birlikte … -(y)AlIm mI?",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
+  "id": "17df6acbfaf0",
+  "theme": "Geniş zaman -r / -Ar / -Ir",
+  "theme_slug": "genis_zaman",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Tu peux enlever tes chaussures ? (avertissement poli, sen)",
+  "answer": "Ayakkabını çıkarır mısın?",
+  "alternatives": [
+   "Ayakkabını çıkarır mısın",
+   "Lütfen ayakkabını çıkarır mısın?",
+   "Ayakkabılarını çıkarır mısın?"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "çıkar- → çıkarır (2 syllabes → -Ir), puis harmonie en chaîne : mı + sın.",
+  "reference": "turc_reference_grammaire.md#67-geniş-zaman--r---ar---ir--présent-large-aoriste-cours-du-0311"
+ },
+ {
   "id": "489b3f009d6b",
   "theme": "Harmonie vocalique & phonologie",
   "theme_slug": "harmonie_vocalique",
@@ -3313,6 +3500,23 @@
   "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
  },
  {
+  "id": "6d9d03e9f6f5",
+  "theme": "Impératif et optatif (Gel! / Gidelim)",
+  "theme_slug": "imperatif_optatif",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Ne criez pas, je vous entends.",
+  "answer": "Bağırmayın, sizi duyuyorum.",
+  "alternatives": [
+   "Bağırmayın sizi duyuyorum.",
+   "Siz bağırmayın, sizi duyuyorum.",
+   "Bağırmayın, sizi duyuyorum"
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "Impératif négatif siz : bağır + ma + yın. duymak = entendre (perception).",
+  "reference": "turc_reference_grammaire.md#7-modes--impératif-optatif-et-potentiel"
+ },
+ {
   "id": "aec32dadbd2e",
   "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
   "theme_slug": "nuances_lexicales",
@@ -3431,6 +3635,87 @@
   ],
   "hint": "",
   "explanation": "yakışıklı ne s'emploie que pour un homme. Une belle voiture = güzel araba.",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "7e6d2d2abdc5",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "____ insanlar kahve içiyor. (Certaines personnes boivent du café.)",
+  "answer": "bazı",
+  "alternatives": [],
+  "choices": [
+   "bazen",
+   "bazı"
+  ],
+  "hint": "",
+  "explanation": "Le mot porte sur un nom (insanlar) → adjectif bazı = certains.",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "a536fbee16f0",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "____ kahve içiyorum. (Je bois parfois du café.)",
+  "answer": "bazen",
+  "alternatives": [],
+  "choices": [
+   "bazen",
+   "bazı"
+  ],
+  "hint": "",
+  "explanation": "Le mot porte sur le verbe → adverbe bazen = parfois (= bazı zamanlarda).",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "039a19d4ede1",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "fill_blank",
+  "display_prompt": "Bunlar benim his____. (Ce sont mes sentiments.)",
+  "answer": "lerim",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "his est un nom : his + ler (pluriel) + im (possessif ben). Le verbe serait hissetmek.",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "69b6b0738393",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "Deux voisins se crient dessus puis en viennent aux mains. Quel verbe ?",
+  "answer": "kavga etmek",
+  "alternatives": [],
+  "choices": [
+   "tartışmak",
+   "kavga etmek",
+   "şaka yapmak",
+   "dalga geçmek"
+  ],
+  "hint": "",
+  "explanation": "kavga etmek = agressif, peut être physique. tartışmak = débattre / se disputer avec des mots seulement.",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "809c9c74dc87",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "Mon frère et moi sommes 100 % différents. Il est mon ____.",
+  "answer": "tam tersim",
+  "alternatives": [],
+  "choices": [
+   "başka",
+   "bambaşka",
+   "tam tersim",
+   "farklı"
+  ],
+  "hint": "",
+  "explanation": "başka = farklı (différent) < bambaşka (très différent) < tam tersi = tam zıddı (le contraire exact). + possessif : tam tersim.",
   "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
  },
  {
