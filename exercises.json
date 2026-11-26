@@ -766,6 +766,86 @@
   "reference": "turc_reference_grammaire.md#3-les-cas"
  },
  {
+  "id": "41b83125749e",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "Kitap Ali'de. → quelle question correspond ?",
+  "answer": "Kimde?",
+  "alternatives": [],
+  "choices": [
+   "Kimde?",
+   "Neyde?",
+   "Kime?",
+   "Neye?",
+   "Kimden?",
+   "Neyden?"
+  ],
+  "hint": "",
+  "explanation": "Ali = personne → kim. Locatif (-DA) : chez qui / sur qui → Kimde?",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "89095758157e",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "Mektubu Ayşe'ye verdim. → quelle question correspond ?",
+  "answer": "Kime?",
+  "alternatives": [],
+  "choices": [
+   "Kimde?",
+   "Neyde?",
+   "Kime?",
+   "Neye?",
+   "Kimden?",
+   "Neyden?"
+  ],
+  "hint": "",
+  "explanation": "Personne + datif (-(y)A) → Kime? (à qui ?)",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "7a90cf2d73f3",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "Bu hediyeyi annemden aldım. → quelle question correspond ?",
+  "answer": "Kimden?",
+  "alternatives": [],
+  "choices": [
+   "Kimde?",
+   "Neyde?",
+   "Kime?",
+   "Neye?",
+   "Kimden?",
+   "Neyden?"
+  ],
+  "hint": "",
+  "explanation": "Personne + ablatif (-DAn) → Kimden? (de qui ?)",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
+  "id": "111ff818d1a2",
+  "theme": "Les cas (locatif, accusatif, datif, ablatif, génitif)",
+  "theme_slug": "cas",
+  "type": "mcq",
+  "display_prompt": "Kedi köpekten korkuyor. → quelle question correspond ?",
+  "answer": "Neyden?",
+  "alternatives": [],
+  "choices": [
+   "Kimde?",
+   "Neyde?",
+   "Kime?",
+   "Neye?",
+   "Kimden?",
+   "Neyden?"
+  ],
+  "hint": "",
+  "explanation": "Animal = ne. Ablatif (korkmak + -DAn) → Neyden?",
+  "reference": "turc_reference_grammaire.md#3-les-cas"
+ },
+ {
   "id": "5380f2a844d1",
   "theme": "Comparatif daha — plus [adj] que",
   "theme_slug": "comparatif_daha",
@@ -3719,6 +3799,38 @@
   "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
  },
  {
+  "id": "62ffd676e653",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "Bir ____ ceket aldım. (J'ai acheté une veste en cuir.)",
+  "answer": "deri",
+  "alternatives": [],
+  "choices": [
+   "deri",
+   "cilt"
+  ],
+  "hint": "",
+  "explanation": "deri = peau au sens large, y compris le cuir (matière). cilt = peau humaine, contexte soin / dermato.",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
+  "id": "f8b632bde4b7",
+  "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
+  "theme_slug": "nuances_lexicales",
+  "type": "mcq",
+  "display_prompt": "____m çok kuru, krem kullanıyorum. (J'ai la peau très sèche.)",
+  "answer": "cilt",
+  "alternatives": [],
+  "choices": [
+   "deri",
+   "cilt"
+  ],
+  "hint": "",
+  "explanation": "Soin de la peau humaine → cilt. Attention : cilt + im → cildim (t → d devant voyelle).",
+  "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
+ },
+ {
   "id": "9790cb05f910",
   "theme": "Passé continu -iyordu (et artık / hâlâ)",
   "theme_slug": "passe_continu",
@@ -6550,6 +6662,69 @@
   ],
   "hint": "",
   "explanation": "herkes (tout le monde) se conjugue au singulier, comme « chacun ».",
+  "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
+  "id": "ea865c3a5842",
+  "theme": "Valence verbale (verbe + cas)",
+  "theme_slug": "valence_verbale",
+  "type": "fill_blank",
+  "display_prompt": "Sana inan____. (Je te crois.)",
+  "answer": "ıyorum",
+  "alternatives": [],
+  "choices": [],
+  "hint": "",
+  "explanation": "inanmak + datif (croire EN qqn) : sana. inan + ıyor + um.",
+  "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
+  "id": "6269b90b21d2",
+  "theme": "Valence verbale (verbe + cas)",
+  "theme_slug": "valence_verbale",
+  "type": "translation",
+  "display_prompt": "[FR → TR] Je ne crois pas aux fantômes.",
+  "answer": "Hayaletlere inanmıyorum.",
+  "alternatives": [
+   "Hayaletlere inanmıyorum",
+   "Ben hayaletlere inanmıyorum."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "inanmak régit le datif : hayalet + ler + e.",
+  "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
+  "id": "0fbc4cc35f34",
+  "theme": "Valence verbale (verbe + cas)",
+  "theme_slug": "valence_verbale",
+  "type": "mcq",
+  "display_prompt": "« Galatasaray'ı tutuyorum. » — que signifie tutmak ici ?",
+  "answer": "Je soutiens Galatasaray",
+  "alternatives": [],
+  "choices": [
+   "Je soutiens Galatasaray",
+   "Je tiens Galatasaray dans mes mains",
+   "Je loue Galatasaray",
+   "Je retiens Galatasaray"
+  ],
+  "hint": "",
+  "explanation": "tutmak + équipe (acc.) = supporter. Autres sens : sözünü tutmak (tenir sa promesse), ev tutmak (louer).",
+  "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
+ },
+ {
+  "id": "83f22010af0a",
+  "theme": "Valence verbale (verbe + cas)",
+  "theme_slug": "valence_verbale",
+  "type": "translation",
+  "display_prompt": "[TR → FR] Sözünü tuttun.",
+  "answer": "Tu as tenu ta promesse.",
+  "alternatives": [
+   "Tu as tenu parole.",
+   "Tu as tenu ta parole."
+  ],
+  "choices": [],
+  "hint": "",
+  "explanation": "söz tutmak = tenir sa promesse (söz + possessif + accusatif : sözünü).",
   "reference": "turc_reference_grammaire.md#valence-verbale-verbes--cas"
  },
  {
