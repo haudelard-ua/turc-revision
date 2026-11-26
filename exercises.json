@@ -3815,11 +3815,11 @@
   "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
  },
  {
-  "id": "f8b632bde4b7",
+  "id": "41c3fcc5d598",
   "theme": "Nuances lexicales — tek/yalnız, bahane/mazeret, saçma",
   "theme_slug": "nuances_lexicales",
   "type": "mcq",
-  "display_prompt": "____m çok kuru, krem kullanıyorum. (J'ai la peau très sèche.)",
+  "display_prompt": "Hassas ____ için krem. (Crème pour peau sensible.)",
   "answer": "cilt",
   "alternatives": [],
   "choices": [
@@ -3827,7 +3827,7 @@
    "cilt"
   ],
   "hint": "",
-  "explanation": "Soin de la peau humaine → cilt. Attention : cilt + im → cildim (t → d devant voyelle).",
+  "explanation": "Soin de la peau humaine → cilt. Avec possessif : cildim çok kuru (t → d devant voyelle).",
   "reference": "turc_reference_sessions.md#126-bahane-vs-mazeret--fausse-excuse-vs-excuse-valable-cours-du-2710"
  },
  {
